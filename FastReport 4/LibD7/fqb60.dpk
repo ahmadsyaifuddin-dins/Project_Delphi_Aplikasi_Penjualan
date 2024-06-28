@@ -1,0 +1,47 @@
+package fqb60;
+
+{$ALIGN 8}
+{$ASSERTIONS OFF}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS ON}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'FastQueryBuilder 1.03'}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+{$I fqb.inc}
+
+requires
+  vcl,
+  rtl,
+  vclx,
+  dbrtl,
+  vcldb,
+  bdertl
+  ;
+
+contains
+  fqbClass in 'fqbClass.pas' ,
+  fqbSynmemo in 'fqbSynmemo.pas' {fqbSynmemo},
+  fqbLinkForm in 'fqbLinkForm.pas' {fqbLinkForm},
+  fqbUtils in 'fqbUtils.pas' ,
+  fqbDesign in 'fqbDesign.pas' {fqbDesign},
+  fqbZLib in 'fqbZLib.pas' 
+  ;
+
+end.

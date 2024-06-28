@@ -1,0 +1,51 @@
+Report Designer:
+- new XP-style interface
+- the "Data" tab with all report datasets
+- ability to draw diagrams in the "Data" tab
+- code completion (Ctrl+Space)
+- breakpoints
+- watches
+- report templates
+- local guidelines (appears when you move or resize an object)
+- ability to work in non-modal mode, mdi child mode
+
+Report Preview:
+- thumbnails
+
+Print:
+- split a big page to several small pages
+- print several small pages on one big
+- print a page on a specified sheet (with scale)
+- duplex handling from print dialogue
+- print copy name on each printed copy (for example, "First copy", "Second copy")
+
+Report Core:
+- "endless page" mode
+- images handling, increased speed
+- the "Reset page numbers" mode for groups
+- reports crypting (Rijndael algorithm)
+- report inheritance (both file-based and dfm-based)
+- drill-down groups
+- frxGlobalVariables object
+- "cross-tab" object enhancements:
+  - improved cells appearance
+  - cross elements visible in the designer
+  - fill corner (ShowCorner property)
+  - side-by-side crosstabs (NextCross property)
+  - join cells with the same value (JoinEqualCells property)
+  - join the same string values in a cell (AllowDuplicates property)
+  - ability to put an external object inside cross-tab
+  - AddWidth, AddHeight properties to increase width&height of the cell
+  - AutoSize property, ability to resize cells manually
+- line object can have arrows
+- added TfrxPictureView.FileLink property (can contain variable or a file name)
+- separate settings for each frame line (properties Frame.LeftLine,
+TopLine, RightLine, BottomLine can be set in the object inspector)
+- PNG images support (uncomment {$DEFINE PNG} in the frx.inc file)
+- Open Document Format for Office Applications (OASIS) exports, spreadsheet (ods) and text (odt)
+
+Enterprise components:
+- Users/Groups security support
+- Web-forms feature improvements
+- Templates support
+- Dynamically refresh of reports list, configuration, database connection, users/groups

@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Excel ’ѕж— »е Ё—г 
+8001=дг«
+8002= ’«жн—
+8003=«ѕџ«г ”бжбе«
+8004=’ѕж— ”—нЏ
+8005=жн“н жнР
+8006=»’ж—  г д
+8007=“гнде
+8008=»Џѕ «“ ’ѕж— Excle «ћ—«н
+8009=Б—ждѕе Excel (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Excel ’ѕж— »е Ё—г 
+8101=дг«
+8102=жн“н жнР
+8103=“гнде
+8104=»Џѕ «“ ’ѕж— Excle «ћ—«н
+8105=Б—ждѕе XML Excel (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=HTML ’ѕж— »е Ё—г 
+8201=«ћ—« »Џѕ «“ –ќн—е ”«“н
+8202=дг«
+8203= ’«жн—
+8204=еге ѕ— нШ Бж‘е
+8205=Бед«н Ћ«» 
+8206=еѕ«н  Р— ’ЁЌе
+8207=Ндѕ ’ЁЌе «н
+8208=Mozilla ћ” ћжР—
+8209=“гнде
+8210=Б—ждѕе HTML (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=(Н«БР— ”ж“дн) Text ’ѕж— »е Ё—г 
+8301=Бн‘ дг«н‘ ЁЏ«б/џн—џЏ«б
+8302= ћ“∆н«  ’ѕж—  
+8303= ЁШнШ ’ЁЌе
+8304=OEM codepage
+8305=ќЎжЎ ќ«бн
+8306=Ё÷«н ќ«бн
+8307=‘г«—е ’ЁЌе
+8308=‘г«—е н« гЌѕжѕе ’ЁЌ«  —« Ше »« Ш«г« ћѕ« ‘ѕе «дѕ ж«—ѕ Шднѕ. »—«н гЋ«б:  1,3,5, 12-6
+8309= гён«” Р–«—н 
+8310=X гён«”
+8311=Y гён«”
+8312= Н«—Нж» 
+8313=енНнШѕ«г
+8314=”«ѕе
+8315=Р—«ЁнШ
+8316=OEM codepage ЁёЎ »«
+8317=Н«Б »Џѕ «“ ’ѕж—
+8318=ћ“∆н«  –ќн—е ”«“н
+8319= Бн‘ дг«н‘ 
+8320=Бед«:
+8321=«— Ё«Џ:
+8322=’ЁЌе
+8323=»“—Рдг«∆н
+8324=ШжНШдг«∆н
+8325=Б—ждѕе Text (Н«БР— ”ж“дн)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Н«Б
+8401=Н«БР—
+8402=д«г
+8403= дўнг« ...
+8404=—ждж‘ 
+8405= Џѕ«ѕ —ждж‘ 
+8406=  дўнг«  Н«БР— 
+8407=джЏ Н«БР—
+8408=.fpi
+8409=Printer init template (*.fpi)|*.fpi
+8410=.fpi
+8411=Printer init template (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=RTF ’ѕж— »е Ё—г 
+8501= ’«жн—
+8502=жн“н жнР
+8503=«ћ—« »Џѕ «“ ’ѕж—
+8504=Б—ждѕе RTF (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=ћ“∆н«  ’ѕж—
+8601= ћ“∆н«   ’жн— 
+8602=JPEG ШнЁн 
+8603=(dpi) ж÷жЌ
+8604=Ё«нбе«н гћ“«
+8605=Ш«е‘ «дѕ«“е ’ЁЌ« 
+8606=”н«е ж ”Ёнѕ
+
+======== TfrxPDFExportDialog ========
+8700=PDF ’ѕж— »е Ё—г 
+8701=Ё‘—ѕе
+8702=ћ«”«“н Ёжд 
+8703=Н«Б »енде ‘ѕе
+8704=дг«н Шбн
+8705=“гнде
+8706=«ћ—« »Џѕ «“ ’ѕж—
+8707=Б—ждѕе Adobe PDF (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=Б—ждѕе RTF
+BMPexport= ’жн— BMP
+JPEGexport= ’жн— JPEG
+TIFFexport= ’жн— TIFF 
+TextExport=(Н«БР— ”ж“дн) Text 
+XlsOLEexport=ћѕжб Excel (OLE)
+HTMLexport=Б—ждѕе HTML
+XlsXMLexport=ћѕжб Excel (XML)
+PDFexport=Б—ждѕе PDF 
+ProgressWait=бЎЁ« ’»— Шднѕ
+ProgressRows=¬г«ѕе ”«“н ”Ў—е«
+ProgressColumns=¬г«ѕе ”«“н ” жде«
+ProgressStyles=¬г«ѕе ”«“н дг«
+ProgressObjects=’ѕж— «‘н«Ѕ
+TIFFexportFilter= ’жн— Tiff (*.tif)|*.tif
+BMPexportFilter= ’жн— BMP (*.bmp)|*.bmp
+JPEGexportFilter= ’жн— Jpeg (*.jpg)|*.jpg
+HTMLNavFirst=«жб
+HTMLNavPrev=ё»б
+HTMLNavNext=»Џѕ
+HTMLNavLast=¬ќ—
+HTMLNavRefresh=»«“»ндн
+HTMLNavPrint=Н«Б
+HTMLNavTotal=Шб ’ЁЌ« 
+======== TfrxSimpleTextExportDialog ========
+8800=Text ’ѕж— »е Ё—г 
+8801=Б—ждѕе Text (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Б—ждѕе Text
+======== TfrxCSVExportDialog ========
+8850=CSV ’ѕж— »е Ё—г 
+8851=Б—ждѕе CSV (*.csv)|*.csv
+8852=.csv
+8853=ћѕ« Шддѕе
+CSVExport=Б—ждѕе CSV
+======== TfrxMailExportDialog ========
+8900=E-Mail «—”«б
+8901=E-mail
+8902=ѕ” —”н
+8903=« ’«б
+8904=¬ѕ—”
+8905=÷гнге
+8906=ё«б»
+8907=¬ѕ—” Ё—” дѕе
+8908=д«г Ё—” дѕе
+8909=гн“»«д
+8910=Ш«—»—
+8911=д«ге
+8912=Бнџ«г
+8913=г д
+8914=”«“г«д
+8915=Шбге —г“
+8916=ѕ—Р«е
+8917=–ќн— ћ“∆н« 
+8918=Ёнбѕ гж—ѕ дн«“ Б— д‘ѕе «” 
+8919=ћ“∆н«  ’ѕж— Бн‘—Ё е
+8920=«г÷«Ѕ
+8921=”«ќ д
+8922=гж÷жЏ
+8923=»е —нд ѕ—жѕ
+8924=Ё—” «ѕд д«ге »е
+EmailExport=«—”«б E-mail
+FastReportFile=Б—ждѕе FastReport
+======== TfrxGIFExport ========
+GifexportFilter= ’жн— Gif (*.gif)|*.gif
+GIFexport= ’жн— Gif
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

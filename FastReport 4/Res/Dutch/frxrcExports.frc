@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Exporteren naar Excel
+8001=Stijlen
+8002=Afbeeldingen
+8003=Cellen samenvoegen
+8004=As text
+8005=Background
+8006=Fast export
+8007=WYSIWYG
+8008=Na het exporteren Excel starten
+8009=Excel bestand (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Exporteren naar Excel
+8101=Stijlen
+8102=WYSIWYG
+8103=Background
+8104=Na het exporteren Excel starten
+8105=XML Excel bestand (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Exporteren naar HTML table
+8201=Openen na het exporteren
+8202=Stijlen
+8203=Afbeeldingen
+8204=Alles in een folder
+8205=Vaste breedte
+8206=Pagina navigator
+8207=Meerdere pagina's
+8208=Mozilla browser
+8209=Background
+8210=HTML bestand (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Exporteren naar text (dot-matrix printer)
+8301=Voorbeeld aan/uit
+8302= Export eigenschappen  
+8303=Pagina scheidingen
+8304=OEM codepage
+8305=Blanko regels
+8306=Voorafgaande spaties
+8307=Paginanummers
+8308=Vul paginanummers en/of pagina ranges in, gescheiden door komma's. Bijvoorbeeld: 1,3,5-12
+8309= Schaal 
+8310=X as
+8311=Y as
+8312= Frames 
+8313=Geen
+8314=Eenvoudig
+8315=Grafisch
+8316=Uitsluitend met OEM codepage
+8317=Afdrukken na het exporteren
+8318=Instellingen opslaan
+8319= Voorbeeld 
+8320=Breedte:
+8321=Hoogte:
+8322=Pagina
+8323=Inzoomen
+8324=Uitzoomen
+8325=Tekst bestand (dot-matrix printer)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Print
+8401=Printer
+8402=Name
+8403=Setup...
+8404=Kopieën
+8405=Aantal kopieën
+8406= Printer initialisatie setup 
+8407=Printer type
+8408=.fpi
+8409=Printer init template (*.fpi)|*.fpi
+8410=.fpi
+8411=Printer init template (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Exporteren naar RTF
+8501=Afbeeldingen
+8502=WYSIWYG
+8503=Openen na export
+8504=RTF bestand (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Exporteer instellingen
+8601= Afbeeldingsinstellingen 
+8602=JPEG kwaliteit
+8603=Resolution (dpi)
+8604=Separate files
+8605=Pagina's bijsnijden
+8606=Monochrome
+
+======== TfrxPDFExportDialog ========
+8700=Exporteren naar PDF
+8701=Gecomprimeerd
+8702=Ingesloten lettertypen
+8703=Print optimized
+8704=Background
+8705=Openen na export
+8706=Outline
+8707=Adobe PDF bestand (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF bestand
+BMPexport=BMP afbeelding
+JPEGexport=JPEG afbeelding
+TIFFexport=TIFF afbeelding
+TextExport=Text (matrix printer)
+XlsOLEexport=Excel tabel (OLE)
+HTMLexport=HTML bestand
+XlsXMLexport=Excel tabel (XML)
+PDFexport=PDF bestand
+ProgressWait=Wacht s.v.p.
+ProgressRows=Rijen worden aangemaakt
+ProgressColumns=Kolommen worden aangemaakt
+ProgressStyles=Stijlen worden aangemaakt
+ProgressObjects=Objecten worden geexporteerd
+TIFFexportFilter=Tiff afbeelding (*.tif)|*.tif
+BMPexportFilter=BMP afbeelding (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg afbeelding (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Verstuur per E-mail
+8901=E-mail
+8902=Account
+8903=Verbinding
+8904=Adres
+8905=Bijlage
+8906=Indeling
+8907=Afzender adres
+8908=Afzender naam
+8909=Host
+8910=Login
+8911=Mail
+8912=Bericht
+8913=Tekst
+8914=Organisatie
+8915=Wachtwoord
+8916=Port
+8917=Instellingen opslaan
+8918=Verplichte velden zijn niet ingevuld
+8919=Geavanceerde export instellingen
+8920=Handtekening
+8921=Aanmaken
+8922=Onderwerp
+8923=Met vriendelijke groet
+8924=Stuur mail naar
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=エクセルファイルへのエクスポート
+8001=スタイル
+8002=画像
+8003=セルの結合
+8004=高速エクスポート
+8005=WYSIWYG
+8006=テキスト形式
+8007=背景
+8008=エクスポート後エクセルで開く
+8009=エクセルブック (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=エクセルファイルへのエクスポート
+8101=スタイル
+8102=WYSIWYG
+8103=背景
+8104=エクスポート後にエクセルで開く
+8105=XML スプレッドシート (*.xml)|*.xml
+8106=.xml
+
+======== TfrxHTMLExportDialog ========
+8200=HTML ファイルへのエクスポート
+8201=エクスポート後に開く
+8202=スタイル
+8203=画像
+8204=１つのフォルダに収める
+8205=固定幅
+8206=ページナビゲータ
+8207=複数ページに分割
+8208=Mozilla ブラウザ
+8209=背景
+8210=HTML 形式 (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=テキストファイル(ドットマトリックスプリンタ用) へのエクスポート
+8301=プレビュー ON/OFF
+8302= エクスポート設定  
+8303=ページ区切り
+8304=OEM コードページ
+8305=空白行
+8306=リードスペース
+8307=ページ指定
+8308=1,3,6のようにページ番号をカンマで区切って指定するか、4-8のようにページ範囲を指定してください。
+8309= 拡大/縮小 
+8310=横方向
+8311=縦方向
+8312= フレーム 
+8313=なし
+8314=標準
+8315=画像
+8316=OEM コードページのみ
+8317=エクスポート後印刷する
+8318=設定を保存する
+8319= プレビュー 
+8320=幅:
+8321=高さ:
+8322=ページ
+8323=拡大
+8324=縮小
+8325=テキストファイル (ドットマトリックスプリンタ用)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=印刷
+8401=プリンタ
+8402=プリンタ名
+8403=設定...
+8404=印刷部数
+8405=印刷部数
+8406= プリンタ初期化設定 
+8407=プリンタの種類
+8408=.fpi
+8409=プリンタ初期化テンプレート (*.fpi)|*.fpi
+8410=.fpi
+8411=プリンタ初期化テンプレート (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=リッチテキスト形式へのエクスポート
+8501=画像
+8502=WYSIWYG
+8503=エクスポート後に開く
+8504=リッチテキスト形式 (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=エクスポート設定
+8601= 画質設定 
+8602=JPEG 圧縮品質
+8603=解像度 (dpi)
+8604=ファイルを分割する
+8605=余白を削除する
+8606=モノクロ
+
+======== TfrxPDFExportDialog ========
+8700=PDF 形式へのエクスポート
+8701=圧縮
+8702=フォント埋め込み
+8703=印刷に最適化
+8704=概観
+8705=背景
+8706=エクスポート後に開く
+8707=Adobe PDF 形式 (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=リッチテキスト形式
+BMPexport=BMP イメージ
+JPEGexport=JPEG イメージ
+TIFFexport=TIFF イメージ
+TextExport=テキストファイル (マトリックスプリンタ)
+XlsOLEexport=エクセルブック
+HTMLexport=HTML 形式
+XlsXMLexport=XML スプレッドシート
+PDFexport=PDF 形式
+ProgressWait=しばらくお待ちください
+ProgressRows=行を設定しています
+ProgressColumns=列を設定しています
+ProgressStyles=スタイルを設定しています
+ProgressObjects=オブジェクトをエクスポートしています
+TIFFexportFilter=Tiff イメージ (*.tif)|*.tif
+BMPexportFilter=BMP イメージ (*.bmp)|*.bmp
+JPEGexportFilter=JPEG イメージ (*.jpg)|*.jpg
+HTMLNavFirst=先頭
+HTMLNavPrev=前へ
+HTMLNavNext=次へ
+HTMLNavLast=最後
+HTMLNavRefresh=最新の情報に更新
+HTMLNavPrint=印刷
+HTMLNavTotal=総ページ数
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

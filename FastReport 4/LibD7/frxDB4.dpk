@@ -1,0 +1,51 @@
+// Package file for Delphi 4
+
+package frxDB4;
+
+{$I frx.inc}
+
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  VCL40,
+  VCLDB40,
+  frx4,
+{$IFDEF QBUILDER}
+  fqb40,
+{$ENDIF}
+  fs4,
+  fsDB4;
+
+contains
+  frxDBSet in 'frxDBSet.pas',
+  frxConnWizard in 'frxConnWizard.pas',
+  frxCustomDB in 'frxCustomDB.pas',
+  frxCustomDBEditor in 'frxCustomDBEditor.pas',
+  frxCustomDBRTTI in 'frxCustomDBRTTI.pas',
+  frxEditMD in 'frxEditMD.pas',
+  frxEditQueryParams in 'frxEditQueryParams.pas',
+  frxEditSQL in 'frxEditSQL.pas';
+
+end.

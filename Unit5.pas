@@ -17,6 +17,10 @@ type
     btn3: TButton;
     edt2: TEdit;
     Label3: TLabel;
+    btn4: TButton;
+    btn5: TButton;
+    edt3: TEdit;
+    btn6: TButton;
     procedure dbgrd1CellClick(Column: TColumn);
     procedure btn1Click(Sender: TObject);
     procedure btn2Click(Sender: TObject);

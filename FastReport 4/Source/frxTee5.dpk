@@ -1,0 +1,49 @@
+// Package file for Delphi 5
+
+package frxTee5;
+
+{$I frx.inc}
+{$I tee.inc}
+
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  VCL50,
+{$IFDEF TeeChartStd} TEE50, TEEUI50, {$ENDIF}
+{$IFDEF TeeChart4}   TEE45, TEEPRO45, {$ENDIF}
+{$IFDEF TeeChart5}   TEE55, TEEPRO55, {$ENDIF}
+{$IFDEF TeeChart6}   TEE65, TEEPRO65, {$ENDIF}
+{$IFDEF TeeChart7}   TEE75, TEEPRO75, {$ENDIF}
+  fs5,
+  fsTee5,
+  frx5;
+
+contains
+  frxChart in 'frxChart.pas',
+  frxChartEditor in 'frxChartEditor.pas',
+  frxChartHelpers in 'frxChartHelpers.pas',
+  frxChartRTTI in 'frxChartRTTI.pas';
+
+end.

@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Export in format Excel
+8001=Stiluri
+8002=Imagini
+8003=Unire celule
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Lanseaza Excel dupa export
+8009=Fisiere Excel (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Export in format Excel
+8101=Stiluri
+8102=WYSIWYG
+8103=Background
+8104=Lanseaza Excel dupa export
+8105=Fisiere XML Excel (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Export in tabel HTML
+8201=Deschide dupa export
+8202=Stiluri
+8203=Imagini
+8204=Toate intr-un singur director
+8205=Latime fixa
+8206=Navigator pagini
+8207=Multi-pagina
+8208=Browser Mozilla
+8209=Background
+8210=Fisier HTML (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Export in fiser text (imprimanta matriceala)
+8301=Previzualizare da/nu
+8302= Setari export  
+8303=Despartire pagini
+8304=Pagina cod OEM
+8305=Linii goale
+8306=Spatii de inceput
+8307=Numar pagini
+8308=Introduceti numarul de pagini si/sau intervalul de pagini, separate de virgula. De exemplu: 1,3,5-12
+8309= Scalare 
+8310=Scala X
+8311=Scala Y
+8312= Cadru 
+8313=Fara
+8314=Simplu
+8315=Grafic
+8316=Doar cu pagina de cod OEM
+8317=Listare dupa export
+8318=Setari salvare
+8319= Previzualizare 
+8320=Latime:
+8321=Inaltime:
+8322=Pagina
+8323=Marire
+8324=Micsorare
+8325=Fisier text (imprimanta matriceala)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Print
+8401=Imprimanta
+8402=Nume
+8403=Setari...
+8404=Copii
+8405=Numar copii
+8406= Initializare imprimanta 
+8407=Tip imprimanta
+8408=.fpi
+8409=Sablon initializare imprimanta (*.fpi)|*.fpi
+8410=.fpi
+8411=Sablon initializare imprimanta (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Export in format RTF
+8501=Imagini
+8502=WYSIWYG
+8503=Deschide dupa export
+8504=Fisier RTF (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Setari export
+8601= Setari imagine 
+8602=Calitate JPEG
+8603=Resolution (dpi)
+8604=Separate files
+8605=Optimizeaza paginile
+8606=Monocrom
+
+======== TfrxPDFExportDialog ========
+8700=Export in format PDF
+8701=Compresat
+8702=Include fonturi
+8703=Print optimized
+8704=Outline
+8705=Background
+8706=Deschide dupa export
+8707=Fisier Adobe PDF (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=Fisier RTF
+BMPexport=Imagine BMP
+JPEGexport=Imagine JPEG
+TIFFexport=Imagine TIFF
+TextExport=Text (imprimanta matriciala)
+XlsOLEexport=Tabel Excel (OLE)
+HTMLexport=Fisier HTML
+XlsXMLexport=Tabel Excel (XML)
+PDFexport=Fisier PDF
+ProgressWait=Va rog asteptati
+ProgressRows=Setare randuri
+ProgressColumns=Setare coloane
+ProgressStyles=Setare stiluri
+ProgressObjects=Exportare obiecte
+TIFFexportFilter=Imagine Tiff (*.tif)|*.tif
+BMPexportFilter=Imagine BMP (*.bmp)|*.bmp
+JPEGexportFilter=Imagine Jpeg (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

@@ -11,6 +11,7 @@ object Kategori3: TKategori3
   Font.Name = 'Tahoma'
   Font.Style = [fsBold]
   OldCreateOrder = False
+  OnShow = FormShow
   PixelsPerInch = 96
   TextHeight = 16
   object Label1: TLabel
@@ -39,10 +40,17 @@ object Kategori3: TKategori3
     Font.Style = [fsBold]
     ParentFont = False
   end
+  object Label3: TLabel
+    Left = 96
+    Top = 336
+    Width = 103
+    Height = 16
+    Caption = 'MASUKAN NAME'
+  end
   object edt1: TEdit
     Left = 232
     Top = 88
-    Width = 121
+    Width = 169
     Height = 24
     TabOrder = 0
   end
@@ -51,7 +59,7 @@ object Kategori3: TKategori3
     Top = 144
     Width = 75
     Height = 25
-    Caption = 'INSERT'
+    Caption = 'CREATE'
     TabOrder = 1
     OnClick = btn1Click
   end
@@ -75,7 +83,7 @@ object Kategori3: TKategori3
   end
   object dbgrd1: TDBGrid
     Left = 152
-    Top = 208
+    Top = 200
     Width = 313
     Height = 120
     DataSource = DataModule4.ds_kategori
@@ -86,5 +94,40 @@ object Kategori3: TKategori3
     TitleFont.Name = 'Tahoma'
     TitleFont.Style = [fsBold]
     OnCellClick = dbgrd1CellClick
+  end
+  object btn4: TButton
+    Left = 456
+    Top = 144
+    Width = 75
+    Height = 25
+    Caption = 'RESET'
+    TabOrder = 5
+    OnClick = btn4Click
+  end
+  object btn6: TButton
+    Left = 72
+    Top = 144
+    Width = 75
+    Height = 25
+    Caption = 'NEW'
+    TabOrder = 6
+    OnClick = btn6Click
+  end
+  object edt2: TEdit
+    Left = 216
+    Top = 336
+    Width = 201
+    Height = 24
+    TabOrder = 7
+    OnChange = edt2Change
+  end
+  object btn5: TButton
+    Left = 448
+    Top = 336
+    Width = 75
+    Height = 33
+    Caption = 'SEARCH'
+    TabOrder = 8
+    OnClick = btn5Click
   end
 end

@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Εξαγωγή σε Excel
+8001=Styles
+8002=Εικόνες
+8003=Συνένωση Κελιών
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Open Excel after export
+8009=Αρχείο Excel (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Εξαγωγή σε Εxcel
+8101=Styles
+8102=WYSIWYG
+8103=Background
+8104=Open Excel after export
+8105=Αρχείο XML Excel (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Εξαγωγή σε πίνακα HTML
+8201=’νοιγμα μετά την Εξαγωγή
+8202=Styles
+8203=Εικόνες
+8204=Όλα σε ένα φάκελλο
+8205=ΌΛα ένα πλάτος
+8206=Πλοηγός Σελίδων
+8207=Πολλαπλές Σελίδες
+8208=Πλοηγός Mozilla
+8209=Background
+8210=Αρχείο HTML (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Εξαγωγή σε Κείμενο (dot-matrix εκτυπωτή)
+8301=Προεπισκόπηση ναι/όχι
+8302= Ρυθμίσεις Εξαγωγής  
+8303=Σελιδοποίηση
+8304=Πίνακας Συμβολοσειράς OEM
+8305=’δειες γραμμές
+8306=Κενά Στοίχισης
+8307=Αριθμοί Σελίδων
+8308=Δώστε αριθμούς και εύρος Σελίδων, χωρισμένα με κόμα. Για παράδειγμα 1,3,5-12
+8309= Κλίμακα 
+8310=Κλίμακα X
+8311=Κλίμακα Y
+8312= Πλαίσια 
+8313=Κανένα
+8314=Απλά
+8315=Γραφικά
+8316=Μόνο με πίνακα OEM
+8317=Εκτύπωση μετά την Εξαγωγή
+8318=Ρυθμίσεις Αποθήκευσης
+8319= Προεπισκόπηση 
+8320=Πλάτος:
+8321=Ύψος:
+8322=Σελίδα
+8323=Zoom in
+8324=Zoom out
+8325=Αρχείο Κειμένου (dot-matrix εκτυπωτή)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Εκτύπωση
+8401=Εκτυπωτής
+8402=Όνομα
+8403=Ρυθμίσεις...
+8404=Αντίγραφα
+8405=Αριθμός Αντιγράφων
+8406= Printer init setup 
+8407=Είδος Εκτυπωτή
+8408=.fpi
+8409=Printer init template (*.fpi)|*.fpi
+8410=.fpi
+8411=Printer init template (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Export to RTF
+8501=Εικόνες
+8502=WYSIWYG
+8503=’νοιγμα μετά την εξαγωγή
+8504=Αρχείο RTF (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Ρυθμίσεις Εξαγωγής
+8601= Ρυθμίσεις Εικόνας 
+8602=Ποιότητα JPEG
+8603=Resolution (dpi)
+8604=Separate files
+8605=Κόψιμο περιθωρίων
+8606=Μονόχρωμο
+
+======== TfrxPDFExportDialog ========
+8700=Eξαγωγή σε PDF
+8701=Συμπίεση
+8702=Συμπεριλαμβάνει γραμματοσειρές
+8703=Βέλτιστη Εκτύπωση
+8704=Outline
+8705=Background
+8706=Open after export
+8707=Αρχείο Adobe PDF (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=Αρχείο RTF
+BMPexport=Εικόνα BMP
+JPEGexport=Εικόνα JPEG
+TIFFexport=Εικόνα TIFF
+TextExport=Κείμενο (dotmatrix εκτυπωτή)
+XlsOLEexport=Πίνακας Excel (OLE)
+HTMLexport=Αρχείο HTML
+XlsXMLexport=Πίνακας Excel (XML)
+PDFexport=Αρχείο PDF
+ProgressWait=Παρακαλώ Περιμένετε
+ProgressRows=Επεξεργασία Γραμμών
+ProgressColumns=Επεξεργασία Στηλών
+ProgressStyles=Καθορισμός των Στυλ
+ProgressObjects=Εξαγωγή
+TIFFexportFilter=Εικόνα Tiff (*.tif)|*.tif
+BMPexportFilter=Εικόνα BMP (*.bmp)|*.bmp
+JPEGexportFilter=Εικόνα Jpeg (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

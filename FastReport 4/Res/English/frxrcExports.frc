@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Export to Excel
+8001=Styles
+8002=Pictures
+8003=Merge cells
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Open Excel after export
+8009=Excel file (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Export to Excel
+8101=Styles
+8102=WYSIWYG
+8103=Background
+8104=Open Excel after export
+8105=XML Excel file (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Export to HTML table
+8201=Open after export
+8202=Styles
+8203=Pictures
+8204=All in one folder
+8205=Fixed width
+8206=Page navigator
+8207=Multipage
+8208=Mozilla browser
+8209=Background
+8210=HTML file (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Export to text (dot-matrix printer)
+8301=Preview on/off
+8302= Export properties  
+8303=Page breaks
+8304=OEM codepage
+8305=Empty lines
+8306=Lead spaces
+8307=Page numbers
+8308=Enter numbers and/or page ranges, separated by commas. For example: 1,3,5-12
+8309= Scaling 
+8310=X Scale
+8311=Y Scale
+8312= Frames 
+8313=None
+8314=Simple
+8315=Graphic
+8316=Only with OEM codepage
+8317=Print after export
+8318=Save settings
+8319= Preview 
+8320=Width:
+8321=Height:
+8322=Page
+8323=Zoom in
+8324=Zoom out
+8325=Text file (dot-matrix printer)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Print
+8401=Printer
+8402=Name
+8403=Setup...
+8404=Copies
+8405=Number of copies
+8406= Printer init setup 
+8407=Printer type
+8408=.fpi
+8409=Printer init template (*.fpi)|*.fpi
+8410=.fpi
+8411=Printer init template (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Export to RTF
+8501=Pictures
+8502=WYSIWYG
+8503=Open after export
+8504=RTF file (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Export Settings
+8601= Image settings 
+8602=JPEG quality
+8603=Resolution (dpi)
+8604=Separate files
+8605=Crop pages
+8606=Monochrome
+
+======== TfrxPDFExportDialog ========
+8700=Export to PDF
+8701=Compressed
+8702=Embedded fonts
+8703=Print optimized
+8704=Outline
+8705=Background
+8706=Open after export
+8707=Adobe PDF file (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF file
+BMPexport=BMP image
+JPEGexport=JPEG image
+TIFFexport=TIFF image
+TextExport=Text (matrix printer)
+XlsOLEexport=Excel table (OLE)
+HTMLexport=HTML file
+XlsXMLexport=Excel table (XML)
+PDFexport=PDF file
+ProgressWait=Please wait
+ProgressRows=Setting up rows
+ProgressColumns=Setting up columns
+ProgressStyles=Setting up styles
+ProgressObjects=Exporting objects
+TIFFexportFilter=Tiff image (*.tif)|*.tif
+BMPexportFilter=BMP image (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg image (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are Empty
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=Open Document Spreadsheet
+ODTExportFilter=Open Document Text file (*.odt)|*.odt
+ODTExport=Open Document Text
+8960=.ods
+8961=.odt

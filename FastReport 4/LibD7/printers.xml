@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  This file contains a list of supported dot-matrix printers and 
+  their esc commands. Just put this file to the folder with your .exe.
+  Valid esc commands are:
+    Reset, FormFeed, Landscape, Portrait, BoldOn, BoldOff, ItalicOn, 
+    ItalicOff, UnderlineOn, UnderlineOff, SuperscriptOn, SuperscriptOff, 
+    SubscriptOn, SubscriptOff, CondensedOn, CondensedOff, WideOn, WideOff,
+    cpi12On, cpi12Off, cpi15On, cpi15Off
+  Escapes can be in hex (e.g. Reset="1B40") or decimal form
+  (e.g. Reset="#27#64").
+  'Inherit' command allows you to borrow esc commands from the printer
+  with given 'id'. Id's must be in ascending order, without gaps between them.
+-->
+<printers>
+  <printer id="0" Name="None" FormFeed="0C"/>
+  <printer id="1" Name="Epson Generic" Inherit="0" Reset="1B40" BoldOn="1B45" BoldOff="1B46" ItalicOn="1B34" ItalicOff="1B35" UnderlineOn="1B2D01" UnderlineOff="1B2D00" SuperscriptOn="#27#83#01" SuperscriptOff="#27#84" SubscriptOn="#27#83#00" SubscriptOff="#27#84" CondensedOn="0F" CondensedOff="12" WideOn="1B5701" WideOff="1B5700" cpi12On="1B4D" cpi12Off="1B50" cpi15On="1B67" cpi15Off="1B50"/>
+  <printer id="2" Name="HP Generic" Inherit="0" Reset="1B45" Portrait="1B266C304F" Landscape="1B266C314F" BoldOn="1B28733342" BoldOff="1B28733042" ItalicOn="1B28733153" ItalicOff="1B28733053" UnderlineOn="1B26643144" UnderlineOff="1B266440" SuperscriptOn="#27#38#97#45#46#53#82" SuperscriptOff="#27#38#97#43#46#53#82" SubscriptOn="#27#38#97#43#46#53#82" SubscriptOff="#27#38#97#45#46#53#82" CondensedOn="1B2873313648" CondensedOff="1B2873313048" WideOn="1B28733548" WideOff="1B2873313048" cpi12On="1B266B313048" cpi12Off="1B266B313248" cpi15On="" cpi15Off=""/>
+  <printer id="3" Name="IBM Generic" Inherit="1" Reset="" cpi12On="1B3A" cpi12Off="12" cpi15On="1B67" cpi15Off="12"/>
+</printers>

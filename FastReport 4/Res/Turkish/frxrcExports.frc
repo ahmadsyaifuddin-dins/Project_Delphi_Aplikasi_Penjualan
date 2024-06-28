@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Excel dosyasýna ver
+8001=Stiller
+8002=Resimler
+8003=Hücreleri birleþtir
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Kaydettikten sonra Excel'i aç
+8009=Excel dosyasý (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Excel dosyasýna ver
+8101=Stiller
+8102=WYSIWYG
+8103=Kaydettikten sonra Excel'i aç
+8104=Background
+8105=XML Excel dosyasý (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=HTML dosyasýna ver
+8201=Kaydettikten sonra aç
+8202=Stiller
+8203=Resimler
+8204=Hepsi bir klasöre
+8205=Sabit geniþlik
+8206=Sayfa gezgini
+8207=Çoklu sayfa
+8208=Mozilla tarayýcýsý
+8209=Background
+8210=HTML dosyasý (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Text dosyasýna ver (nokta-vuruþlu yazýcý)
+8301=Önizleme açýk/kapalý
+8302= Verme ayarlarý  
+8303=Sayfa sonu
+8304=OEM kod sayfasý
+8305=Boþ satýrlar
+8306=Baþlýk boþluðu
+8307=Sayfalar:
+8308=Sayfa numaralarýný ve/veya sayfa aralýklarýný virgülle ayýrarak girin. Örn. 1,3,5-12
+8309= Ölçeklendirme 
+8310=Yatay
+8311=Dikey
+8312= Çerçeveler 
+8313=Yok
+8314=Basit
+8315=Grafik
+8316=Sadece OEM kod sayfasý
+8317=Kaydettikten sonra yazdýr
+8318=Ayarlarý kaydet
+8319= Önizleme 
+8320=En:
+8321=Boy:
+8322=Sayfa
+8323=Yakýnlaþtýr
+8324=Uzaklaþtýr
+8325=Text dosyasý (nokta-vuruþlu yazýcý)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Yazdýr
+8401=Yazýcý
+8402=Adý
+8403=Ayarlar...
+8404=Kopya Sayýsý
+8405=Kopya sayýsý
+8406= Yazýcý ayarlarý 
+8407=Yazýcý türü
+8408=.fpi
+8409=Yazýcý þablonu(*.fpi)|*.fpi
+8410=.fpi
+8411=Yazýcý þablonu (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=RTF dosyasýna ver
+8501=Resimler
+8502=WYSIWYG
+8503=Kaydettikten sonra aç
+8504=RTF dosyasý (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Verme ayarlarý
+8601= Resim Ayarlarý 
+8602=JPEG kalitesi
+8603=Resolution (dpi)
+8604=Separate files
+8605=Sayfalarý Kýrp
+8606=Siyah/Beyaz
+
+======== TfrxPDFExportDialog ========
+8700=PDF dosyasýna ver
+8701=Sýkýþtýrýlmýþ
+8702=Yazý karakterlerini içine göm
+8703=Print optimized
+8704=Background
+8705=Kaydettikten sonra aç
+8706=Outline
+8707=Adobe PDF dosyasý (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF dosyasý
+BMPexport=BMP resmi
+JPEGexport=JPEG resmi
+TIFFexport=TIFF resmi
+TextExport=Text (nokta-vuruþlu yazýcý)
+XlsOLEexport=Excel tablosu (OLE)
+HTMLexport=HTML dosyasý
+XlsXMLexport=Excel tablosu (XML)
+PDFexport=PDF dosyasý
+ProgressWait=Lütfen bekleyin
+ProgressRows=Satýrlar düzenleniyor
+ProgressColumns=Kolonlar düzenleniyor
+ProgressStyles=Stiller düzenleniyor
+ProgressObjects=Nesneler veriliyor
+TIFFexportFilter=TIFF resmi (*.tif)|*.tif
+BMPexportFilter=BMP resmi (*.bmp)|*.bmp
+JPEGexportFilter=JPEG resmi (*.jpg)|*.jpg
+HTMLNavFirst=Ilk
+HTMLNavPrev=Onceki
+HTMLNavNext=Sonraki
+HTMLNavLast=Son
+HTMLNavRefresh=Guncelle
+HTMLNavPrint=Yaz
+HTMLNavTotal=Toplam sayfa
+======== TfrxSimpleTextExportDialog ========
+8800=Veri ver Text formatinda
+8801=Text dosyasi (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text dosya
+======== TfrxCSVExportDialog ========
+8850=Veri ver CSV formatinda
+8851=CSV dosyasi (*.csv)|*.csv
+8852=.csv
+8853=Ayrac
+CSVExport=CSV dosya
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-Posta
+8902=Hesap
+8903=Baglanti
+8904=Adres
+8905=Eklenen dosya
+8906=Dosya formati
+8907=Gonderen adresi
+8908=Gonderen isim
+8909=Host
+8910=Login
+8911=Posta
+8912=Mesaj
+8913=Text
+8914=Firma
+8915=Sifre
+8916=Port
+8917=Ozellikleri hatirla
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Konu
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

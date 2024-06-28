@@ -1,0 +1,185 @@
+======== TfrxXLSExportDialog ========
+8000=Izvoz u Excel
+8001=Stilovi
+8002=Slike
+8003=Spoji æelije
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Otvori Excel po izvozu
+8009=Excel datoteka (*.xls)|*.xls
+8010=.xls
+8950=Continuous
+
+======== TfrxXMLExportDialog ========
+8100=Izvoz u Excel
+8101=Stilovi
+8102=WYSIWYG
+8103=Background
+8104=Otvori Excel po izvozu
+8105=XML Excel datoteka (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Izvoz u HTML tablicu
+8201=Otvori po izvozu
+8202=Stilovi
+8203=Slike
+8204=Sve u istu mapu
+8205=Fiksna širina
+8206=Navigator za stranicu
+8207=Višestrano
+8208=Mozilla pretraživaè
+8209=Background
+8210=HTML datoteka (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Izvoz u tekstualnu datoteku (matrièni pisaè)
+8301=Prepregled uklj/isklj
+8302=Osobine izvoza  
+8303=Prelomi stranicu
+8304=OEM kodna stranica
+8305=Prazni redovi
+8306=Vodeæi proredi
+8307=Brojevi stranica
+8308=Unesite brojeve i/ili opseg stranica razdvojenih zarezima. Na primjer: 1,3,5-12
+8309=Skaliranje 
+8310=X vrijednost
+8311=Y vrijednost
+8312= Okviri 
+8313=Bez
+8314=Jednostavan
+8315=Grafièan
+8316=Samo s OEM kodnom stranicom
+8317=Ispiši po izvozu
+8318=Spremi postavke
+8319= Prepogled 
+8320=Širina:
+8321=Visina:
+8322=Stranica
+8323=Približi
+8324=Udalji
+8325=Tekstualna datoteka (matrièni pisaè)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Ispiši
+8401=Pisaè
+8402=Ime
+8403=Postavke...
+8404=Kopije
+8405=Broj kopija
+8406=Postavke pisaèa 
+8407=Tip pisaèa
+8408=.fpi
+8409=Predložak pisaèa (*.fpi)|*.fpi
+8410=.fpi
+8411=Predložak pisaèa (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Izvoz u RTF
+8501=Slike
+8502=WYSIWYG
+8503=Otvori po izvozu
+8504=RTF datoteka (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Postavke izvoza
+8601=Postavke slike 
+8602=JPEG kvaliteta
+8603=Resolution (dpi)
+8604=Separate files
+8605=Obrezivanje stranice
+8606=Crno-bijelo
+
+======== TfrxPDFExportDialog ========
+8700=Izvoz U PDF
+8701=Zgusnuto
+8702=Postavljeni fontovi
+8703=Print optimized
+8704=Background
+8705=Otvori po izvozu
+8706=Outline
+8707=Adobe PDF datoteka (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF datoteka
+BMPexport=BMP slika
+JPEGexport=JPEG slika
+TIFFexport=TIFF slika
+TextExport=Text (matrièni pisaè)
+XlsOLEexport=Excel tablica (OLE)
+HTMLexport=HTML datoteka
+XlsXMLexport=Excel tablica (XML)
+PDFexport=PDF datoteka
+ProgressWait=Molimo, poèekajte
+ProgressRows=Postavljanje redova
+ProgressColumns=Postavljanje stupaca
+ProgressStyles=Postavljanje stilova
+ProgressObjects=Izvoženje predmeta
+TIFFexportFilter=Tiff slika (*.tif)|*.tif
+BMPexportFilter=BMP slika (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg slika (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Delphi.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{BDE76650-6313-4B64-B586-6F4DA6265685}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Delphi.Personality>
+    <Source>
+      <Source Name="MainSource">frxDB9.dpk</Source>
+    </Source>
+    <FileVersion>
+      <FileVersion Name="Version">7.0</FileVersion>
+    </FileVersion>
+  </Delphi.Personality>
+</BorlandProject>

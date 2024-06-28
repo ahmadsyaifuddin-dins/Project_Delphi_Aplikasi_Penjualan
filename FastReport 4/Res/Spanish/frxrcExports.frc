@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Exportar Excel
+8001=Estilos
+8002=Imágenes
+8003=Combinar celdas
+8004=Exportar Rápido
+8005=Tal como lo vés
+8006=Como texto
+8007=Segundo plano
+8008=Abrir Excel después de exportar
+8009=Archivo de Excel (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Exportar a Excel
+8101=Estilos
+8102=Tal como lo vés
+8103=Abrir Excel después de exportar
+8104=Segundo Plano
+8105=Archivo XML Excel (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Exportar a HTML
+8201=Abrir después de exportar
+8202=Estilos
+8203=Imágenes
+8204=Todo en una misma carpeta
+8205=Ancho fijo
+8206=Navegador
+8207=Multipágina
+8208=Navegador Mozilla
+8209=Segundo Plano
+8210=Archivo HTML (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Exportar a texto (Impresoras matriciales)
+8301=Vista previa Si/No
+8302= Propiedades de Exportar
+8303=Separador de páginas
+8304=Código de página OEM
+8305=Líneas vacías
+8306=Lead spaces
+8307=Páginas:
+8308=Indique los números de página y/o un rango, separado por comas. Por ejemplo: 1,3,5-12
+8309= Escalado
+8310=Escala X
+8311=Escala Y
+8312= Marcos
+8313=Ninguno
+8314=Simple
+8315=Gráfico
+8316=Solo códigos de página OEM
+8317=Imprimir después de exportar
+8318=Guardar opciones
+8319= Vista previa
+8320=Ancho:
+8321=Alto:
+8322=Página
+8323=Más Zoom
+8324=Menos Zoom
+8325=Archivo de texto (Impresoras matriciales)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Imprimir
+8401=Impresora
+8402=Nombre
+8403=Configurar...
+8404=Copias
+8405=Número de copias
+8406= Configuración
+8407=Tipo de impresora
+8408=.fpi
+8409=Printer init template (*.fpi)|*.fpi
+8410=.fpi
+8411=Printer init template (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Exportar a RTF
+8501=Imágenes
+8502=Tal como lo vés
+8503=Abrir después de exportar
+8504=Archivo RTF (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Opciones de Exportar
+8601= Opciones de imagen
+8602=Calidad JPEG
+8603=Resolution (dpi)
+8604=Archivos Separados
+8605=Crop páginas
+8606=Monocromo
+
+======== TfrxPDFExportDialog ========
+8700=Exportar a PDF
+8701=Comprimir
+8702=Fuentes Embebidas
+8703=Impresión Optimizada
+8704=Segundo Plano
+8705=Abrir después de exportar
+8706=Outline
+8707=Archivos de Adobe PDF (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=Archivo RTF
+BMPexport=Imagen BMP
+JPEGexport=Imagen JPEG
+TIFFexport=Imagen TIFF
+TextExport=Texto (Impresora matricial)
+XlsOLEexport=Tabla Excel (OLE)
+HTMLexport=Archivo HTML
+XlsXMLexport=Tabla Excel (XML)
+PDFexport=Archivo PDF
+ProgressWait=Espere por favor
+ProgressRows=Opciones de filas
+ProgressColumns=Opciones de columnas
+ProgressStyles=Opciones de Estilos
+ProgressObjects=Exportando objetos
+TIFFexportFilter=Imagen Tiff (*.tif)|*.tif
+BMPexportFilter=Imagen BMP (*.bmp)|*.bmp
+JPEGexportFilter=Imagen Jpeg (*.jpg)|*.jpg
+HTMLNavFirst=Primera
+HTMLNavPrev=Anterior
+HTMLNavNext=Siguiente
+HTMLNavLast=Ultima
+HTMLNavRefresh=Refrescar
+HTMLNavPrint=Imprimir
+HTMLNavTotal=Total páginas
+======== TfrxSimpleTextExportDialog ========
+8800=Exportar a Texto
+8801=Archivo de Texto (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Archivo de Texto
+======== TfrxCSVExportDialog ========
+8850=Exportar a CSV
+8851=Archivo CSV (*.csv)|*.csv
+8852=.csv
+8853=Separador
+CSVExport=Archivo CSV
+======== TfrxMailExportDialog ========
+8900=Enviar por E-mail
+8901=E-mail
+8902=Cuenta
+8903=Conexión
+8904=Dirección
+8905=Adjunto
+8906=Formato
+8907=De la Dirección
+8908=Del Nombre
+8909=Servidor
+8910=Usuario
+8911=Correo
+8912=Mensage
+8913=Texto
+8914=Organización
+8915=Contraseña
+8916=Puerto
+8917=Recordar propiedades
+8918=Algunos campos obligatorios no se han rellenado
+8919=Configuración avanzada
+8920=Firma
+8921=Construir
+8922=Asunto
+8923=Un saludo
+8924=Enviar el correo a
+EmailExport=E-mail
+FastReportFile=Archivo FastReport
+======== TfrxGIFExport ========
+GifexportFilter=Archivo Gif (*.gif)|*.gif
+GIFexport=Imagen Gif
+======== 3.21 ========
+8950=Continuo
+======== 3.22 ========
+8951=Cabecera de página/Pié
+8952=Texto
+8953=Cabecera/Pié
+8954=Ninguno
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

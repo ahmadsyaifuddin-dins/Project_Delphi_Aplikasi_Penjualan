@@ -1,0 +1,27 @@
+Compatibility issues between FastReport 3 and FastReport 4:
+
+- v4 uses the same file format, .fr3 and can open v3 files without any problems.
+Most of new report files also can be opened by v3, but not all.
+
+- v4 can read v3 .fp3 files.
+
+- New kind of page, "Data" page is introduced in v4. This page contains all
+internal datasets of your report. When opening old v3 files, v4 automatically 
+adds the "Data" page and moves all datasets on it.
+
+- Since all v4 reports contain a "Data" page, you should check your Delphi 
+code where you access a report page by index. The "Data" page is always the 
+first one. So code like Page := frxReport1.Pages[0] will return a data page.
+You should correct that code (either use [1] or access a page by its name).
+
+- Check your reports that contain the Cross-tab object! 
+a) In v4, this object draws cross-tab elements in design-time 
+and is bigger than in v3. So you have to correct bands that contain
+such object.
+b) New behavior introduced in v4 - table can have corner, title, cell headers.
+All these properties are on by default. You may turn off corner and title
+(ShowCorner, ShowTitle properties) if not needed, and fill in the cell 
+headers elements.
+c) In v4, table has several cell elements. Each cell element has its own
+font/color/frame/... settings. In v3 you were able to setup only one cell 
+element. You should set the fonts and colors for each new element, if needed.

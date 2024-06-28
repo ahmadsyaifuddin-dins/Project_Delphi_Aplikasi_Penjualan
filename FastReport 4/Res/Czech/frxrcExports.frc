@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Export do Excelu
+8001=Styly
+8002=Obrázky
+8003=Rychlý export
+8004=Pøipojit buòky
+8005=WYSIWYG
+8006=Jako text
+8007=Pozadí
+8008=Po exportu otevøít Excel
+8009=Soubor Excelu (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Export do Excelu
+8101=Styly
+8102=WYSIWYG
+8103=Pozadí
+8104=Po exportu otevøít Excel
+8105=XML Soubor Excelu (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Export do HTML tabulky
+8201=Po exportu otevøít
+8202=Styly
+8203=Obrázky
+8204=Vše v jednom adresáøi
+8205=Pevná šíøka
+8206=Navigátor stránky
+8207=Multistránka
+8208=Prohlížeè Mozilla
+8209=Pozadí
+8210=HTML soubor (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Export do textu (jehlièková tiskárna)
+8301=Náhled zap/vyp
+8302= Vlastnosti exportu  
+8303=Oddìlovaèe stránek
+8304=K´dové stránka OEM
+8305=Prázdné øádky
+8306=Úvodní mezery
+8307=Poèet stránek
+8308=Zadejte èísla stránek a/nebo rozsah stránek, oddìlených èárkami. Napø.: 1,3,5-12
+8309= Zvìtšení 
+8310=Rozmìr X
+8311=Rozmìr Y
+8312= Rámeèky 
+8313=Žádný
+8314=Jednoduchý
+8315=Grafický
+8316=Pouze s OEM kód. stránkou
+8317=Po exportu vytisknout
+8318=Uložit nastavení
+8319= Náhled 
+8320=Šíøka:
+8321=Výška:
+8322=Stránka
+8323=Zvìtšit
+8324=Zmenšit
+8325=Soubor textu (jehlièk. tiskárna)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Tisk
+8401=Tiskárna
+8402=Název
+8403=Nastavení...
+8404=Kopie
+8405=Poèet kopií
+8406= Zákl. nastavení tiskárny 
+8407=Typ tiskárny
+8408=.fpi
+8409=Šablona inic. tiskárny (*.fpi)|*.fpi
+8410=.fpi
+8411=Šablona inic. tiskárny (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Export do RTF
+8501=Obrázky
+8502=WYSIWYG
+8503=Po exportu otevøít
+8504=Soubor RTF (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Nastavení exportu
+8601= Nastavení obrázku 
+8602=Kvalita JPEG
+8603=Rozlišení (dpi)
+8604=Oddìlené soubory
+8605=Oøíznutí stránek
+8606=Èernobíle
+
+======== TfrxPDFExportDialog ========
+8700=Export do PDF
+8701=Komprimovat
+8702=Vestavìná písma
+8703=Optimalizovat tisk
+8704=Obrys
+8705=Pozadí
+8706=Po exportu otevøít
+8707=Soubor Adobe PDF (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=Soubor RTF
+BMPexport=Obrázek BMP
+JPEGexport=Obrázek JPEG
+TIFFexport=Obrázek TIFF
+TextExport=Text (jehl. tiskárna)
+XlsOLEexport=Tabulka Excel (OLE)
+HTMLexport=Soubor HTML
+XlsXMLexport=Tabulka Excel (XML)
+PDFexport=Soubor PDF
+ProgressWait=Prosím èekejte
+ProgressRows=Nastavování øádkù
+ProgressColumns=Nastavování sloupcù
+ProgressStyles=Nastavování stylù
+ProgressObjects=Exportování objektù
+TIFFexportFilter=Obrázek Tiff (*.tif)|*.tif
+BMPexportFilter=Obrázek BMP (*.bmp)|*.bmp
+JPEGexportFilter=Obrázek Jpeg (*.jpg)|*.jpg
+HTMLNavFirst=První
+HTMLNavPrev=Pøedchozí
+HTMLNavNext=Další
+HTMLNavLast=Poslední
+HTMLNavRefresh=Obnovit
+HTMLNavPrint=Tisk
+HTMLNavTotal=Poèet stránek
+======== TfrxSimpleTextExportDialog ========
+8800=Exportovat jako text
+8801=Textový soubor (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Textový soubor
+======== TfrxCSVExportDialog ========
+8850=Export do CSV
+8851=CSV soubor (*.csv)|*.csv
+8852=.csv
+8853=Oddìlovaè
+CSVExport=CSV soubor
+======== TfrxMailExportDialog ========
+8900=Odeslat E-mailem
+8901=E-mail
+8902=Úèet
+8903=Pøipojení
+8904=Adresa
+8905=Pøíloha
+8906=Formát
+8907=Z adresy
+8908=Odesílatel
+8909=Hostitel
+8910=Jméno
+8911=Mail
+8912=Zpráva
+8913=Text
+8914=Organizace
+8915=Heslo
+8916=Port
+8917=Zapamatovat si vlastnosti
+8918=Vyžadovaná pole nejsou vyplnìna
+8919=Rozšíøená nastavení exportu
+8920=Signatura
+8921=Sestavení
+8922=Pøedmìt
+8923=S pozdravem
+8924=Odeslat e-mail
+EmailExport=E-mail
+FastReportFile=FastReport soubor
+======== TfrxGIFExport ========
+GifexportFilter=Soubor Gif (*.gif)|*.gif
+GIFexport=Obrázek Gif
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

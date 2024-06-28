@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stylesheet>
+  <style Name="FastReport">
+    <item Name="Title" Color="8388608" Font.Color="16777215" Font.Height="-16" Font.Style="1"/>
+    <item Name="Header" Color="536870911" Font.Color="128" Font.Style="1"/>
+    <item Name="Group header" Color="15790320" Font.Style="1"/>
+    <item Name="Data" Color="536870911"/>
+    <item Name="Group footer" Color="536870911" Font.Style="1"/>
+    <item Name="Header line" Color="536870911" Frame.Typ="8" Frame.Width="2"/>
+  </style>
+  <style Name="Standard">
+    <item Name="Title" Color="536870911" Font.Height="-16" Font.Style="1"/>
+    <item Name="Header" Color="536870911" Font.Style="1"/>
+    <item Name="Group header" Color="536870911" Frame.Typ="8"/>
+    <item Name="Data" Color="536870911"/>
+    <item Name="Group footer" Color="536870911" Frame.Typ="4"/>
+    <item Name="Header line" Color="536870911" Frame.Typ="8" Frame.Width="2"/>
+  </style>
+  <style Name="Soft gray">
+    <item Name="Title" Color="14211288" Font.Height="-16" Font.Style="1"/>
+    <item Name="Header" Color="15790320" Font.Style="1"/>
+    <item Name="Group header" Color="15790320" Font.Style="1"/>
+    <item Name="Data" Color="536870911" Font.Style="0"/>
+    <item Name="Group footer" Color="536870911" Frame.Typ="4"/>
+    <item Name="Header line" Color="536870911" Frame.Width="2"/>
+  </style>
+  <style Name="Corporate">
+    <item Name="Title" Color="0" Font.Color="16777215" Font.Height="-16" Font.Style="1"/>
+    <item Name="Header" Color="0" Font.Color="16777215" Font.Style="1"/>
+    <item Name="Group header" Color="52479" Font.Style="1"/>
+    <item Name="Data" Color="536870911"/>
+    <item Name="Group footer" Color="536870911" Font.Style="1"/>
+    <item Name="Header line" Color="536870911" Frame.Width="2"/>
+  </style>
+</stylesheet>

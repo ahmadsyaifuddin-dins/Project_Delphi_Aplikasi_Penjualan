@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Excel export
+8001=Stílusok
+8002=Képek
+8003=Cellák egyesítése
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Export után Excel indítása
+8009=Excel fájl (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=XML Excel export
+8101=Stílusok
+8102=WYSIWYG
+8103=Background
+8104=Export után Excel indítása
+8105=XML Excel fájl (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=HTML táblába exportál
+8201=Export után megnyitás
+8202=Stílusok
+8203=Képek
+8204=Mindent egy mappába
+8205=Fix szélesség
+8206=Oldalnavigator
+8207=Többoldalas
+8208=Mozilla böngészõ
+8209=Background
+8210=HTML fájl (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Szöveg export (mátrixnyomtató)
+8301=Elõkép be/ki
+8302= Exportálás beállítása 
+8303=Oldaltörések
+8304=OEM kódlap
+8305=Üres sorok
+8306=Bevezetõ szóközök
+8307=Oldalszámok
+8308=Adjon meg oldalszámokat vagy tartományokat, vesszõvel elválasztva. Például 1,3,5-12
+8309=Skálázás
+8310=X skála
+8311=Y skála
+8312= Keretek 
+8313=Nincs
+8314=Egyszerû
+8315=Grafikus
+8316=Csak az OEM kódlappal
+8317=Export után nyomtatás
+8318=Beállítások mentése
+8319=Elõkép
+8320=Szélesség:
+8321=Magasság:
+8322=Oldal
+8323=Nagyítás
+8324=Kicsinyítés
+8325=Szövegfájl (mátrixnyomtató)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Nyomtat
+8401=Nyomtató
+8402=Név
+8403=Beállít...
+8404=Másolatok
+8405=Másolatok száma
+8406=Nyomtatóinicializálás
+8407=Nyomtató típusa
+8408=.fpi
+8409=Nyomtatóinicializálás minta (*.fpi)|*.fpi
+8410=.fpi
+8411=Nyomtatóinicializálás minta (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=RTF export
+8501=Képek
+8502=WYSIWYG
+8503=Export után megnyit
+8504=RTF fájl (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Exportálás beállítása
+8601=Képbeállítások
+8602=JPEG minõség
+8603=Resolution (dpi)
+8604=Separate files
+8605=Oldalak vágása
+8606=Egyszínû
+
+======== TfrxPDFExportDialog ========
+8700=PDF export
+8701=Tömörített
+8702=Beágyazott betûk
+8703=Print optimized
+8704=Export után megnyit
+8705=Background
+8706=Outline
+8707=Adobe PDF fájl (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF fájl
+BMPexport=BMP kép
+JPEGexport=JPEG kép
+TIFFexport=TIFF kép
+TextExport=Szöveg (mátrixnyomtató)
+XlsOLEexport=Excel tábla (OLE)
+HTMLexport=HTML fájl
+XlsXMLexport=Excel tábla (XML)
+PDFexport=PDF fájl
+ProgressWait=Kérem várjon
+ProgressRows=Sorok beállítása
+ProgressColumns=Oszlopok beállítása
+ProgressStyles=Stílusok beállítása
+ProgressObjects=Objektumok exportálása
+TIFFexportFilter=Tiff kép (*.tif)|*.tif
+BMPexportFilter=BMP kép (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg kép (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

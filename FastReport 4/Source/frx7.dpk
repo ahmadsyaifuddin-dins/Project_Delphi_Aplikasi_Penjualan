@@ -1,0 +1,146 @@
+// Package file for Delphi 7
+
+package frx7;
+
+{$I frx.inc}
+//{$I frxReg.inc}
+
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  VCL,
+{$IFDEF JPEG}
+  VCLJPG,
+{$ENDIF}
+{$IFDEF QBUILDER}
+  fqb70,
+{$ENDIF}
+  fs7;
+
+contains
+  { core files }
+  frxAggregate in 'frxAggregate.pas',
+  frxChm in 'frxChm.pas',
+  frxClass in 'frxClass.pas',
+  frxClassRTTI in 'frxClassRTTI.pas',
+  frxCtrls in 'frxCtrls.pas',
+  frxDialogForm in 'frxDialogForm.pas',
+  frxDMPClass in 'frxDMPClass.pas',
+  frxDMPExport in 'frxDMPExport.pas',
+  frxDock in 'frxDock.pas',
+  frxEngine in 'frxEngine.pas',
+  frxGraphicUtils in 'frxGraphicUtils.pas',
+  frxPassw in 'frxPassw.pas',
+  frxPictureCache in 'frxPictureCache.pas',
+  frxPreview in 'frxPreview.pas',
+  frxPreviewPages in 'frxPreviewPages.pas',
+  frxPreviewPageSettings in 'frxPreviewPageSettings.pas',
+  frxPrintDialog in 'frxPrintDialog.pas',
+  frxPrinter in 'frxPrinter.pas',
+  frxProgress in 'frxProgress.pas',
+  frxrcClass in 'frxrcClass.pas',
+  frxRes in 'frxRes.pas',
+  frxSearchDialog in 'frxSearchDialog.pas',
+  frxUnicodeUtils in 'frxUnicodeUtils.pas',
+  frxUtils in 'frxUtils.pas',
+  frxVariables in 'frxVariables.pas',
+  frxXML in 'frxXML.pas',
+  frxXMLSerializer in 'frxXMLSerializer.pas',
+
+  { designer }
+  frxAbout in 'frxAbout.pas',
+  frxCodeUtils in 'frxCodeUtils.pas',
+  frxConnEditor in 'frxConnEditor.pas',
+  frxCustomEditors in 'frxCustomEditors.pas',
+  frxDataTree in 'frxDataTree.pas',
+  frxDesgn in 'frxDesgn.pas',
+  frxDesgnCtrls in 'frxDesgnCtrls.pas',
+  frxDesgnEditors in 'frxDesgnEditors.pas',
+  frxDesgnWorkspace in 'frxDesgnWorkspace.pas',
+  frxDesgnWorkspace1 in 'frxDesgnWorkspace1.pas',
+  frxDsgnIntf in 'frxDsgnIntf.pas',
+  frxEditAliases in 'frxEditAliases.pas',
+  frxEditDataBand in 'frxEditDataBand.pas',
+  frxEditExpr in 'frxEditExpr.pas',
+  frxEditFormat in 'frxEditFormat.pas',
+  frxEditFrame in 'frxEditFrame.pas',
+  frxEditGroup in 'frxEditGroup.pas',
+  frxEditHighlight in 'frxEditHighlight.pas',
+  frxEditMemo in 'frxEditMemo.pas',
+  frxEditOptions in 'frxEditOptions.pas',
+  frxEditPage in 'frxEditPage.pas',
+  frxEditPicture in 'frxEditPicture.pas',
+  frxEditReport in 'frxEditReport.pas',
+  frxEditReportData in 'frxEditReportData.pas',
+  frxEditStrings in 'frxEditStrings.pas',
+  frxEditStyle in 'frxEditStyle.pas',
+  frxEditSysMemo in 'frxEditSysMemo.pas',
+  frxEditTabOrder in 'frxEditTabOrder.pas',
+  frxEditVar in 'frxEditVar.pas',
+  frxEvaluateForm in 'frxEvaluateForm.pas',
+  frxInheritError in 'frxInheritError.pas',
+  frxInsp in 'frxInsp.pas',
+  frxNewItem in 'frxNewItem.pas',
+  frxPopupForm in 'frxPopupForm.pas',
+  frxrcDesgn in 'frxrcDesgn.pas',
+  frxrcInsp in 'frxrcInsp.pas',
+  frxReportTree in 'frxReportTree.pas',
+  frxStdWizard in 'frxStdWizard.pas',
+  frxSynMemo in 'frxSynMemo.pas',
+  frxUnicodeCtrls in 'frxUnicodeCtrls.pas',
+  frxWatchForm in 'frxWatchForm.pas',
+
+  { add-in objects }
+  frxBarcod in 'frxBarcod.pas',
+  frxBarcode in 'frxBarcode.pas',
+  frxBarcodeEditor in 'frxBarcodeEditor.pas',
+  frxBarcodeRTTI in 'frxBarcodeRTTI.pas',
+  frxChBox in 'frxChBox.pas',
+  frxChBoxRTTI in 'frxChBoxRTTI.pas',
+  frxCross in 'frxCross.pas',
+  frxCrossEditor in 'frxCrossEditor.pas',
+  frxCrossRTTI in 'frxCrossRTTI.pas',
+{$IFNDEF FR_VER_BASIC}
+  frxDCtrl in 'frxDCtrl.pas',
+  frxDCtrlRTTI in 'frxDCtrlRTTI.pas',
+{$ENDIF}
+  frxGradient in 'frxGradient.pas',
+  frxGradientRTTI in 'frxGradientRTTI.pas',
+  frxOLE in 'frxOLE.pas',
+  frxOLEEditor in 'frxOLEEditor.pas',
+  frxOLERTTI in 'frxOLERTTI.pas',
+  frxRich in 'frxRich.pas',
+  frxRichEdit in 'frxRichEdit.pas',
+  frxRichEditor in 'frxRichEditor.pas',
+  frxRichRTTI in 'frxRichRTTI.pas',
+
+  frxGZip in 'frxGZip.pas',
+  frxZLib in 'frxZLib.pas',
+  frxCrypt in 'frxCrypt.pas',
+  rc_AlgRef in 'rc_AlgRef.pas',
+  rc_ApiRef in 'rc_ApiRef.pas',
+  rc_Crypt in 'rc_Crypt.pas';
+
+end.

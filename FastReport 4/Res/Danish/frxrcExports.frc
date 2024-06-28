@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Eksporter til Excel
+8001=Stilart
+8002=Billeder
+8003=Sammensæt celler
+8004=Hurtig eksport
+8005=WYSIWYG
+8006=Som tekst
+8007=Baggrund
+8008=Åbn Excel efter eksport
+8009=Excel fil (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Eksporter til Excel
+8101=Stilart
+8102=WYSIWYG
+8103=Baggrund
+8104=Åbn Excel efter eksport
+8105=XML Excel fil (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Eksporter til HTML tabel
+8201=Åbn efter eksport
+8202=Stilart
+8203=Billeder
+8204=Alt i en mappe
+8205=Fast bredde
+8206=Sidenavigation
+8207=Multiside
+8208=Mozilla browser
+8209=Baggrund
+8210=HTML fil (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Eksporter til tekst (dot-matrix printer)
+8301=Vis udskrift slået til/fra
+8302= Eksportegenskaber  
+8303=Sideskift
+8304=OEM codepage
+8305=Tomme linier
+8306=Mellemrum i starten
+8307=Sidenummer
+8308=Angiv sidetal og/eller sideområder adskilt af kommaer, f.eks. 1,3,5-12
+8309= Skalering 
+8310=X Skala
+8311=Y Skala
+8312= Rammer 
+8313=Ingen
+8314=Simpel
+8315=Grafik
+8316=Kun med OEM codepage
+8317=Udskriv efter eksport
+8318=Gem opsætning
+8319= Vis udskrift 
+8320=Bredde:
+8321=Højde:
+8322=Side
+8323=Zoom ind
+8324=Zoom ud
+8325=Tekstfil (dot-matrix printer)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Udskriv
+8401=Printer
+8402=Navn
+8403=Opsætning...
+8404=Kopier
+8405=Antal af kopier
+8406= Printer init opsætning 
+8407=Printer type
+8408=.fpi
+8409=Printer init skabelon (*.fpi)|*.fpi
+8410=.fpi
+8411=Printer init skabelon (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Eksporter til RTF
+8501=Billeder
+8502=WYSIWYG
+8503=Åbn efter eksport
+8504=RTF fil (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Eksportopsætning
+8601= Billedeopsætning 
+8602=JPEG kvalitet
+8603=Resolution (dpi)
+8604=Seperate filer
+8605=Beskær sider
+8606=Monochrom
+
+======== TfrxPDFExportDialog ========
+8700=Eksporter til PDF
+8701=Komprimeret
+8702=Embedded skrifttyper
+8703=Print optimerede
+8704=Baggrund
+8705=Oversigt
+8706=Åbn efter eksport
+8707=Adobe PDF fil (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF fil
+BMPexport=BMP billede
+JPEGexport=JPEG billede
+TIFFexport=TIFF billede
+TextExport=Tekst (matrixprinter)
+XlsOLEexport=Excel tabel (OLE)
+HTMLexport=HTML fil
+XlsXMLexport=Excel tabel (XML)
+PDFexport=PDF fil
+ProgressWait=Vent venligst
+ProgressRows=Opsætter rækker
+ProgressColumns=Opsætter kolonner
+ProgressStyles=Opsætter stilart
+ProgressObjects=Eksporterer objekter
+TIFFexportFilter=Tiff billede (*.tif)|*.tif
+BMPexportFilter=BMP billede (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg billede (*.jpg)|*.jpg
+HTMLNavFirst=Første
+HTMLNavPrev=Forgående
+HTMLNavNext=Næste
+HTMLNavLast=Sidste
+HTMLNavRefresh=Genopfrisk
+HTMLNavPrint=Udskriv
+HTMLNavTotal=Total antal sider
+======== TfrxSimpleTextExportDialog ========
+8800=Eksporter til tekst
+8801=Tekstfil (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Tekstfil
+======== TfrxCSVExportDialog ========
+8850=Eksporter til CSV
+8851=CSV fil (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV fil
+======== TfrxMailExportDialog ========
+8900=Send som E-mail
+8901=E-mail
+8902=Konto
+8903=Forbindelse
+8904=Adresse
+8905=Vedhæftninger
+8906=Format
+8907=Fra Adresse
+8908=Fra Navn
+8909=Host
+8910=Login
+8911=Mail
+8912=Besked
+8913=Tekst
+8914=Organisation
+8915=Password
+8916=Port
+8917=Husk egenskaberne
+8918=Påkrævede felter er ikke udfyldt
+8919=Advancered opsætning af eksport 
+8920=Signatur
+8921=Build
+8922=Emne
+8923=Med venlig hilsen
+8924=Send mail til
+EmailExport=E-mail
+FastReportFile=FastReport fil
+======== TfrxGIFExport ========
+GifexportFilter=Gif fil (*.gif)|*.gif
+GIFexport=Gif-billede
+======== 3.21 ========
+8950=Kontinueligt
+======== 3.22 ========
+8951=Sidehoved/Fod
+8952=Tekst
+8953=Hoved/Fod
+8954=Ingen
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=导出到 Excel
+8001=样式
+8002=图像
+8003=合并单元格
+8004=Fast export
+8005=所见即所得
+8006=As text
+8007=Background
+8008=在导出后打开 Excel
+8009=Excel 文件 (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=导出到 Excel
+8101=样式
+8102=所见即所得
+8103=Background
+8104=在导出后打开 Excel
+8105=XML Excel 文件 (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=导出到 HTML table
+8201=在导出后打开
+8202=样式
+8203=图像
+8204=全部在一数据夹
+8205=固定宽度
+8206=页面导览
+8207=多页
+8208=Mozilla 浏览器
+8209=Background
+8210=HTML 文件 (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=导出到纯文本 (点阵式打印机)
+8301=预览 启用/停用
+8302= 导出属性  
+8303=分页
+8304=OEM 页码
+8305=空白行
+8306=前置空白
+8307=页数
+8308=输入页数/文件范围，并以逗号分隔(例如:1,3,5-12)
+8309= 比率 
+8310=X 比率
+8311=Y 比率
+8312= 外框 
+8313=无
+8314=简单
+8315=图像
+8316=Only with OEM codepage
+8317=在导出后打开
+8318=保存设置
+8319= 预览 
+8320=宽度:
+8321=高度:
+8322=页
+8323=放大
+8324=缩小
+8325=文本文件 (点阵式打印机)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=打印
+8401=打印机
+8402=Name
+8403=设置...
+8404=份数
+8405=份数
+8406= 打印机初始化设置 
+8407=打印机类型
+8408=.fpi
+8409=打印机初始化样版 (*.fpi)|*.fpi
+8410=.fpi
+8411=打印机初始化样版 (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=导出到 RTF
+8501=图像
+8502=所见即所得
+8503=在导出后打开
+8504=RTF 文件 (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=导出设置
+8601= 图像设置 
+8602=JPEG 品质
+8603=Resolution (dpi)
+8604=Separate files
+8605=剪去页面空白部份
+8606=黑白
+
+======== TfrxPDFExportDialog ========
+8700=导出到 PDF
+8701=压缩
+8702=嵌入字体
+8703=Print optimized
+8704=Outline
+8705=Background
+8706=在导出后打开
+8707=Adobe PDF 文件 (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF 文件
+BMPexport=BMP 图
+JPEGexport=JPEG 图
+TIFFexport=TIFF 图
+TextExport=纯文本 (点阵打印机)
+XlsOLEexport=Excel 表格 (OLE)
+HTMLexport=HTML 文件
+XlsXMLexport=Excel 表格 (XML)
+PDFexport=PDF 文件
+ProgressWait=请稍候
+ProgressRows=正在建立列
+ProgressColumns=正在建立栏
+ProgressStyles=正在建立样式
+ProgressObjects=正在导出对象中
+TIFFexportFilter=Tiff 图 (*.tif)|*.tif
+BMPexportFilter=BMP 图 (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg 图 (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

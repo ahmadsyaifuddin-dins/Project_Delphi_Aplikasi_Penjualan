@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Exportar a Excel
+8001=Estils
+8002=Imatges
+8003=Ajuntar cel·les
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Obrir Excel després d'exportar
+8009=Fitxer Excel (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Exportar a Excel
+8101=Estils
+8102=WYSIWYG
+8103=Background
+8104=Obrir Excel després d'exportar
+8105=Fitxer XML Excel (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Exportar a HTML
+8201=Obrir després d'exportar
+8202=Estils
+8203=Imatges
+8204=Tot en una carpeta
+8205=Fixar amplada
+8206=Pàgina de navegador
+8207=Múltiples pàgines
+8208=Navegador Mozilla
+8209=Background
+8210=Fitxer HTML (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Exportar a text (Impressora d'agulles)
+8301=Vista Prèvia on/off
+8302= Propietat exportació  
+8303=Dividir Pàgines
+8304=Codi de pàgina OEM
+8305=Línies buides
+8306=Treure espais
+8307=Números pàgina
+8308=Entre el número de pàgina i/o rang de pàgines, separats per comes. Per exemple, 1,3,5-12
+8309= Escalat 
+8310=Escala X
+8311=Escala Y
+8312= Marcs 
+8313=Cap
+8314=Simple
+8315=Gràfic
+8316=Sols amb codis de pàgina OEM
+8317=Imprimir després d'exportar
+8318=Guardar opcions
+8319= Vista Prèvia 
+8320=Amplada:
+8321=Alçada:
+8322=Pàgina
+8323=Zoom in
+8324=Zoom out
+8325=Fitxer Text (Impressora d'agulles)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Imprimir
+8401=Impressora
+8402=Nom
+8403=Configuració...
+8404=Còpies
+8405=Número de còpies
+8406= Iniciar configuració impressora 
+8407=Tipus Impressora
+8408=.fpi
+8409=Iniciar plantilla impressora (*.fpi)|*.fpi
+8410=.fpi
+8411=Iniciar plantilla impressora (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Exportar a RTF
+8501=Imatges
+8502=WYSIWYG
+8503=Obrir després d'exportar
+8504=Fitxer RTF (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Opcions Exportació
+8601= Opcions Imatge 
+8602=Qualitat JPEG
+8603=Resolution (dpi)
+8604=Separate files
+8605=Retallar pàgines
+8606=Monocrom
+
+======== TfrxPDFExportDialog ========
+8700=Exportar a PDF
+8701=Comprimir
+8702=Empotrar lletres
+8703=Print optimized
+8704=Outline
+8705=Background
+8706=Obrir després d'exportar
+8707=Fitxer Adobe PDF (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=Fitxer RTF
+BMPexport=Imatge BMP
+JPEGexport=Imatge JPEG
+TIFFexport=Imatge TIFF
+TextExport=Text (Impressora d'agulles)
+XlsOLEexport=Taula Excel (OLE)
+HTMLexport=Fitxer HTML
+XlsXMLexport=Taula Excel (XML)
+PDFexport=Fitxer PDF
+ProgressWait=Esperat si us plau
+ProgressRows=Opcions de files
+ProgressColumns=Opcions de columnes
+ProgressStyles=Opcions d'estils
+ProgressObjects=Exportant objectes
+TIFFexportFilter=Imatge Tiff (*.tif)|*.tif
+BMPexportFilter=Imatge BMP (*.bmp)|*.bmp
+JPEGexportFilter=Imatge Jpeg (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

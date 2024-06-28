@@ -1,8 +1,8 @@
 object Utama1: TUtama1
-  Left = 299
-  Top = 171
-  Width = 771
-  Height = 533
+  Left = 205
+  Top = 134
+  Width = 772
+  Height = 525
   Caption = 'HALAMAN UTAMA'
   Color = clGradientActiveCaption
   Font.Charset = DEFAULT_CHARSET
@@ -18,7 +18,7 @@ object Utama1: TUtama1
   TextHeight = 13
   object img1: TImage
     Left = 0
-    Top = 64
+    Top = 56
     Width = 755
     Height = 410
     ParentShowHint = False
@@ -4426,7 +4426,7 @@ object Utama1: TUtama1
     Stretch = True
   end
   object Label1: TLabel
-    Left = 176
+    Left = 168
     Top = 24
     Width = 470
     Height = 22

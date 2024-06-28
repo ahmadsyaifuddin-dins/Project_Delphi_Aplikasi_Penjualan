@@ -1,0 +1,55 @@
+// Package file for Delphi 2005
+
+package frxe9;
+
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  vcl,
+  vcljpg,
+  frx9;
+
+contains
+  frxExportHTML in 'frxExportHTML.pas', 
+  frxExportImage in 'frxExportImage.pas', 
+  frxExportMatrix in 'frxExportMatrix.pas', 
+  frxExportPDF in 'frxExportPDF.pas', 
+  frxExportRTF in 'frxExportRTF.pas',
+  frxExportTXT in 'frxExportTXT.pas', 
+  frxExportTxtPrn in 'frxExportTxtPrn.pas',
+  frxExportXLS in 'frxExportXLS.pas',
+  frxExportXML in 'frxExportXML.pas',
+  frxExportCSV in 'frxExportCSV.pas', 
+  frxExportText in 'frxExportText.pas', 
+  frxExportMail in 'frxExportMail.pas',
+  frxExportODF in 'frxExportODF.pas',
+  frxZip in 'frxZip.pas',
+  frxFileUtils in 'frxFileUtils.pas',
+  frxNetUtils in 'frxNetUtils.pas',
+  frxPDFFile in 'frxPDFFile.pas', 
+  frxSMTP in 'frxSMTP.pas',
+  frxrcExports in 'frxrcExports.pas';
+
+end.

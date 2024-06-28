@@ -4,7 +4,7 @@ interface
 
 uses
   SysUtils, Classes, DB, ZAbstractRODataset, ZAbstractDataset, ZDataset,
-  ZAbstractConnection, ZConnection;
+  ZAbstractConnection, ZConnection, frxClass, frxDBSet;
 
 type
   TDataModule4 = class(TDataModule)
@@ -22,6 +22,8 @@ type
     ds_pembelian: TDataSource;
     tbl_pembelian: TZQuery;
     tbl1: TZQuery;
+    frxReport1: TfrxReport;
+    frxDBDataset1: TfrxDBDataset;
   private
     { Private declarations }
   public

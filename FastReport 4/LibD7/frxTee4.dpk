@@ -1,0 +1,49 @@
+// Package file for Delphi 4
+
+package frxTee4;
+
+{$I frx.inc}
+{$I tee.inc}
+
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  VCL40,
+{$IFDEF TeeChartStd} TEE40, TEEUI40, {$ENDIF}
+{$IFDEF TeeChart4}   TEE44, TEEPRO44, {$ENDIF}
+{$IFDEF TeeChart5}   TEE54, TEEPRO54, {$ENDIF}
+{$IFDEF TeeChart6}   TEE64, TEEPRO64, {$ENDIF}
+{$IFDEF TeeChart7}   TEE74, TEEPRO74, {$ENDIF}
+  fs4,
+  fsTee4,
+  frx4;
+
+contains
+  frxChart in 'frxChart.pas',
+  frxChartEditor in 'frxChartEditor.pas',
+  frxChartHelpers in 'frxChartHelpers.pas',
+  frxChartRTTI in 'frxChartRTTI.pas';
+
+end.

@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Esporta nel formato Excel
+8001=Stili
+8002=Immagini
+8003=Unisci celle
+8004=Fast export
+8005=Anteprima
+8006=As text
+8007=Background
+8008=Apri il file Excel dopo l'esportazione
+8009=File Excel(*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Esporta nel formato Excel
+8101=Stili
+8102=Anteprima
+8103=Background
+8104=Apri il file Excel dopo l'esportazione
+8105=File XML Excel (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Esporta in formato HTML
+8201=Apri dopo l'esportazione
+8202=Stili
+8203=Immagini
+8204=Tutti in una sola cartella
+8205=Larghezza fissa
+8206=Pagina di navigazione
+8207=Multipagina
+8208=Browser Mozilla
+8209=Background
+8210=File HTML (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Esporta in formato testo (file di testo a spaziatura fissa)
+8301=Anteprima sì/no
+8302= Proprietà di esportazione  
+8303=Interruzioni di pagina 
+8304=Set di caratteri OEM
+8305=Linee Vuote
+8306=Caratteri vuoti
+8307=Pagine:
+8308=Immettere i numeri di pagine e/o l'intervallo di pagine, separate da virgole. Per esempio, 1,3,5-12
+8309= Scalare
+8310=Scala orizzonatalmente
+8311=Scala verticalmente
+8312= Pagine 
+8313=Nessuna
+8314=Semplice
+8315=Grafica
+8316=Solo con OEM codepage
+8317=Stampa dopo l'esportazione
+8318=Salva impostazioni
+8319= Anteprima 
+8320=Larghezza:
+8321=Altezza:
+8322=Pagina
+8323=Zoom in
+8324=Zoom out
+8325=File di testo PRN (file di testo a spaziatura fissa)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Stampa
+8401=Stampante
+8402=Modello
+8403=Configura...
+8404=Copie
+8405=Numero di copie
+8406= Inizializzazione stampante
+8407=Modello
+8408=.fpi
+8409=Modello di inizializzazione stampante(*.fpi)|*.fpi
+8410=.fpi
+8411=Modello di inizializzazione stampante (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=Esporta in formato RTF
+8501=Immagini
+8502=Anteprima
+8503=Apri dopo l'esportazione
+8504=RTF file (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Esporta in formato JPEG
+8601= Impostazioni dell'immagine 
+8602=Qualità JPEG
+8603=Resolution (dpi)
+8604=Separate files
+8605=Ricava la pagina intera
+8606=Monocromatico
+
+======== TfrxPDFExportDialog ========
+8700=Esporta in formato PDF
+8701=Compresso
+8702=Font inclusi
+8703=Print optimized
+8704=Outline
+8705=Background
+8706=Apri dopo l'esportazione
+8707=Adobe PDF file (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=File RTF
+BMPexport=Immagine BMP
+JPEGexport=Immagine JPEG
+TIFFexport=Immagine TIFF
+TextExport=Testo (stampante ad aghi)
+XlsOLEexport=Foglio Excel(OLE)
+HTMLexport=File HTML
+XlsXMLexport=Foglio Excel(XML)
+PDFexport=File PDF
+ProgressWait=Aspettare...
+ProgressRows=Imposta la distanza tra le righe
+ProgressColumns=Imposta la distanza tra le colonne
+ProgressStyles=Imposta gli stili
+ProgressObjects=Esporta oggetti
+TIFFexportFilter=Immagine Tiff (*.tif)|*.tif
+BMPexportFilter=Immagine BMP (*.bmp)|*.bmp
+JPEGexportFilter=Immagine Jpeg (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

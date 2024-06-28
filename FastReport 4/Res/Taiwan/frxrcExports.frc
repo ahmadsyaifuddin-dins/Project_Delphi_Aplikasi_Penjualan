@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=匯出到 Excel
+8001=樣式
+8002=圖像
+8003=合併儲存格
+8004=快速匯出
+8005=所視即所得
+8006=視為文字
+8007=背景
+8008=匯出後開啟 Excel
+8009=Excel file (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=匯出到 Excel
+8101=樣式
+8102=所視即所得
+8103=背景
+8104=匯出後開啟 Excel
+8105=XML Excel (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=匯出到 HTML table
+8201=在匯出後開啟
+8202=樣式
+8203=圖像
+8204=全部在一資料夾
+8205=固定寬度
+8206=頁面導覽
+8207=多頁
+8208=Mozilla 瀏覽器
+8209=背景
+8210=HTML 檔 (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=匯出到純文字 (點陣式印表機)
+8301=預覽 啟用/停用
+8302= 匯出屬性  
+8303=分頁
+8304=OEM 頁碼
+8305=空白行
+8306=前置空白
+8307=頁數
+8308=輸入頁數/文件範圍，並以逗號分隔(例如:1,3,5-12)
+8309= 比率 
+8310=X 比率
+8311=Y 比率
+8312= 外框 
+8313=無
+8314=簡單
+8315=圖像
+8316=Only with OEM codepage
+8317=在匯出後開啟
+8318=儲存設定
+8319= 預覽 
+8320=寬度:
+8321=高度:
+8322=頁
+8323=放大
+8324=縮小
+8325=文字檔 (點陣式印表機)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=列印
+8401=印表機
+8402=名稱
+8403=設定...
+8404=份數
+8405=份數
+8406= 印表機初始化設定 
+8407=印表機型態
+8408=.fpi
+8409=印表機初始化樣版 (*.fpi)|*.fpi
+8410=.fpi
+8411=印表機初始化樣版 (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=匯出到 RTF
+8501=圖像
+8502=所視即所得
+8503=在匯出後開啟
+8504=RTF 檔 (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=匯出設定
+8601= 圖像設定 
+8602=JPEG 品質
+8603=解析度 (dpi)
+8604=分開檔案
+8605=剪去頁面空白部份
+8606=黑白
+
+======== TfrxPDFExportDialog ========
+8700=匯出到 PDF
+8701=壓縮
+8702=嵌入字型
+8703=列印最佳化
+8704=大綱
+8705=背景
+8706=匯出後開啟
+8707=Adobe PDF file (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF file
+BMPexport=BMP image
+JPEGexport=JPEG image
+TIFFexport=TIFF image
+TextExport=Text (matrix printer)
+XlsOLEexport=Excel table (OLE)
+HTMLexport=HTML file
+XlsXMLexport=Excel table (XML)
+PDFexport=PDF file
+ProgressWait=請稍候
+ProgressRows=正在建立列
+ProgressColumns=正在建立欄
+ProgressStyles=正在建立樣式
+ProgressObjects=正在匯出物件
+TIFFexportFilter=Tiff 圖 (*.tif)|*.tif
+BMPexportFilter=BMP 圖 (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg 圖 (*.jpg)|*.jpg
+HTMLNavFirst=首頁
+HTMLNavPrev=前頁
+HTMLNavNext=次頁
+HTMLNavLast=末頁
+HTMLNavRefresh=重新整理
+HTMLNavPrint=列印
+HTMLNavTotal=總頁數
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=電子郵件傳送
+8901=電子郵件
+8902=帳號
+8903=連線
+8904=位址
+8905=附件
+8906=格式
+8907=寄件人位址
+8908=寄件人
+8909=主機
+8910=登入
+8911=郵件
+8912=訊息
+8913=文字
+8914=組織(公司)
+8915=密碼
+8916=通訊埠
+8917=記住屬性
+8918=需要填寫的欄位未填寫
+8919=進階的匯出設定
+8920=簽名檔
+8921=建立
+8922=主旨
+8923=問好
+8924=寄信到
+EmailExport=電子郵件
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=連續的
+======== 3.22 ========
+8951=頁首/尾
+8952=文字
+8953=首/尾
+8954=無
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt

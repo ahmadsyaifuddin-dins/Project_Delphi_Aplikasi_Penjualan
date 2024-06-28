@@ -1,0 +1,19 @@
+1. Remove the following files from the FastReport 4\Lib folder:
+- frxrcClass.dcu
+- frxrcDesgn.dcu
+- frxrcInsp.dcu
+- frxrcExports.dcu
+  
+2. Go folder with desired language and run mk.bat file. This will make 
+.pas files from .frc files
+
+3. Copy the *.pas files from desired folder to the FastReport 4\Lib folder.
+  For FR4 Professional Edition:
+- frxrcClass.pas -> FastReport 4\Source
+- frxrcDesgn.pas -> FastReport 4\Source
+- frxrcExports.pas -> FastReport 4\Source\ExportPack
+- frxrcInsp.pas -> FastReport 4\Source
+
+4. Recompile the FastReport packages (see install.txt file,
+  section III or IV). Only frx*.dpk, frxe*.dpk packages need to
+  be recompiled ('*' = your Delphi version).

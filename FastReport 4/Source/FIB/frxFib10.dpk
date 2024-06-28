@@ -1,0 +1,48 @@
+// Package file for Delphi 2006
+
+package frxFib10;
+
+{$I frx.inc}
+
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  VCL,
+  VCLDB,
+  FIBPlus2006,
+  frx10,
+  frxDB10,
+{$IFDEF QBUILDER}
+  fqb100,
+{$ENDIF}
+  fs10,
+  fsDB10;
+
+contains
+  frxFIBComponents in 'frxFIBComponents.pas',
+  frxFIBEditor in 'frxFIBEditor.pas',
+  frxFIBRTTI in 'frxFIBRTTI.pas';
+
+end.

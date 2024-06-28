@@ -1,0 +1,186 @@
+======== TfrxXLSExportDialog ========
+8000=Excelexport
+8001=Stile
+8002=Bilder
+8003=Zellen verbinden
+8004=Fast export
+8005=WYSIWYG
+8006=As text
+8007=Background
+8008=Excel nach Export öffnen
+8009=Exceldatei (*.xls)|*.xls
+8010=.xls
+
+======== TfrxXMLExportDialog ========
+8100=Excelexport
+8101=Stile
+8102=WYSIWYG
+8103=Background
+8104=Excel nach Export öffnen
+8105=XML Exceldatei (*.xls)|*.xls
+8106=.xls
+
+======== TfrxHTMLExportDialog ========
+8200=Export in HTML Tabelle
+8201=Nach Export öffnen
+8202=Stile
+8203=Bilder
+8204=Alles in einen Ordner
+8205=Feste Breite
+8206=Seitennavigator
+8207=Mehrfachseite
+8208=Mozilla-Browser
+8209=Background
+8210=HTML-Datei (*.html)|*.html
+8211=.html
+
+======== TfrxTXTExportDialog ========
+8300=Textexport (dot-matrix Drucker)
+8301=Vorschau ein/aus
+8302= Exporteigenschaften  
+8303=Seitenumbrüche
+8304=OEM Zeichensatz
+8305=Leerzeilen
+8306=Führende Leerzeichen
+8307=Seitennummern
+8308=Seitennummern und/oder Seitenbereiche durch Komma getrennt eingeben, z.B. 1,3,5-12
+8309= Skalierung 
+8310=X Skalierung
+8311=Y Skalierung
+8312= Rahmen 
+8313=Kein
+8314=Einfach
+8315=Grafisch
+8316=Nur mit OEM Zeichensatz
+8317=Nach Export drucken
+8318=Einstellungen speichern
+8319= Vorschau 
+8320=Breite:
+8321=Höhe:
+8322=Seite
+8323=Einzoomen
+8324=Auszoomen
+8325=Textdatei (dot-matrix Drucker)(*.prn)|*.prn
+8326=.prn
+
+======== TfrxPrnInit ========
+8400=Drucken
+8401=Drucker
+8402=Name
+8403=Setup...
+8404=Kopien
+8405=Anzahl der Kopien
+8406= Druckersetup 
+8407=Druckertyp
+8408=.fpi
+8409=Druckerinit Vorlage (*.fpi)|*.fpi
+8410=.fpi
+8411=Druckerinit Vorlage (*.fpi)|*.fpi
+
+======== TfrxRTFExportDialog ========
+8500=RTF-Export
+8501=Bilder
+8502=WYSIWYG
+8503=Nach Export öffnen
+8504=RTF Datei (*.rtf)|*.rtf
+8505=.rtf
+
+======== TfrxIMGExportDialog ========
+8600=Exporteinstellungen
+8601= Bildeinstellungen 
+8602=JPEG Qualität
+8603=Resolution (dpi)
+8604=Separate files
+8605=Seiten beschneiden
+8606=Monochrome
+
+======== TfrxPDFExportDialog ========
+8700=PDF Export
+8701=Komprimiert
+8702=Schriften einbetten
+8703=Print optimized
+8704=Nach Export öffnen
+8705=Background
+8706=Outline
+8707=Adobe PDFdatei (*.pdf)|*.pdf
+8708=.pdf
+
+RTFexport=RTF Datei
+BMPexport=BMP Bild
+JPEGexport=JPEG Bild
+TIFFexport=TIFF Bild
+TextExport=Text (matrix Drucker)
+XlsOLEexport=Excel Tabelle (OLE)
+HTMLexport=HTML Datei
+XlsXMLexport=Excel Tabelle (XML)
+PDFexport=PDF Datei
+ProgressWait=Bitte warten
+ProgressRows=Bearbeite Zeilen
+ProgressColumns=Bearbeite Spaltencolumns
+ProgressStyles=Bearbeite Stile
+ProgressObjects=Exportiere Objekte
+TIFFexportFilter=Tiff Bild (*.tif)|*.tif
+BMPexportFilter=BMP Bild (*.bmp)|*.bmp
+JPEGexportFilter=Jpeg Bild (*.jpg)|*.jpg
+HTMLNavFirst=First
+HTMLNavPrev=Prev
+HTMLNavNext=Next
+HTMLNavLast=Last
+HTMLNavRefresh=Refresh
+HTMLNavPrint=Print
+HTMLNavTotal=Total pages
+======== TfrxSimpleTextExportDialog ========
+8800=Export to Text
+8801=Text file (*.txt)|*.txt
+8802=.txt
+SimpleTextExport=Text file
+======== TfrxCSVExportDialog ========
+8850=Export to CSV
+8851=CSV file (*.csv)|*.csv
+8852=.csv
+8853=Separator
+CSVExport=CSV file
+======== TfrxMailExportDialog ========
+8900=Send by E-mail
+8901=E-mail
+8902=Account
+8903=Connection
+8904=Address
+8905=Attachment
+8906=Format
+8907=From Address
+8908=From Name
+8909=Host
+8910=Login
+8911=Mail
+8912=Message
+8913=Text
+8914=Organization
+8915=Password
+8916=Port
+8917=Remember properties
+8918=Required fields are not filled
+8919=Advanced export settings
+8920=Signature
+8921=Build
+8922=Subject
+8923=Best regards
+8924=Send mail to
+EmailExport=E-mail
+FastReportFile=FastReport file
+======== TfrxGIFExport ========
+GifexportFilter=Gif file (*.gif)|*.gif
+GIFexport=Gif image
+======== 3.21 ========
+8950=Continuous
+======== 3.22 ========
+8951=Page Header/Footer
+8952=Text
+8953=Header/Footer
+8954=None
+ODSExportFilter=!Open Document Spreadsheet file (*.ods)|*.ods
+ODSExport=!Open Document Spreadsheet
+ODTExportFilter=!Open Document Text file (*.odt)|*.odt
+ODTExport=!Open Document Text
+8960=!.ods
+8961=!.odt
