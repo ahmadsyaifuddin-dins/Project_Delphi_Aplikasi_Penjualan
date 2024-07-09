@@ -11,7 +11,9 @@ uses
   Unit7 in 'Unit7.pas' {Kustomer7},
   Unit8 in 'Unit8.pas' {Penjualan8},
   Unit9 in 'Unit9.pas' {Pembelian9},
-  Unit10 in 'Unit10.pas' {Lap_penjualan10};
+  Unit10 in 'Unit10.pas' {Lap_penjualan10},
+  Unit11 in 'Unit11.pas' {Lap_stok_barang11},
+  Unit12 in 'Unit12.pas' {Lap_barang12};
 
 {$R *.res}
 
@@ -27,5 +29,7 @@ begin
   Application.CreateForm(TPenjualan8, Penjualan8);
   Application.CreateForm(TPembelian9, Pembelian9);
   Application.CreateForm(TLap_penjualan10, Lap_penjualan10);
+  Application.CreateForm(TLap_stok_barang11, Lap_stok_barang11);
+  Application.CreateForm(TLap_barang12, Lap_barang12);
   Application.Run;
 end.

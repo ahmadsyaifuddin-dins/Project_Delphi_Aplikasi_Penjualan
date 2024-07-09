@@ -26,7 +26,6 @@ type
     LAPORANBARANG1: TMenuItem;
     img1: TImage;
     Label1: TLabel;
-    edt_tanggal: TEdit;
     procedure LOGIN1Click(Sender: TObject);
     procedure FormShow(Sender: TObject);
     procedure KATEGORI1Click(Sender: TObject);
@@ -36,7 +35,10 @@ type
     procedure KUSTOMER1Click(Sender: TObject);
     procedure PENJUALAN1Click(Sender: TObject);
     procedure PEMBELIAN1Click(Sender: TObject);
-    procedure FormCreate(Sender: TObject);
+   
+    procedure LAPORANPENJUALAN1Click(Sender: TObject);
+    procedure LAPORANSTOKBARANG1Click(Sender: TObject);
+    procedure LAPORANBARANG1Click(Sender: TObject);
   
   private
     { Private declarations }
@@ -49,7 +51,8 @@ var
 
 implementation
 
-uses Unit2, Unit3, Unit5, Unit6, Unit7, Unit8, Unit9;
+uses Unit2, Unit3, Unit5, Unit6, Unit7, Unit8, Unit9, Unit10, Unit11,
+  Unit12;
 
 {$R *.dfm}
 
@@ -61,9 +64,9 @@ uses Unit2, Unit3, Unit5, Unit6, Unit7, Unit8, Unit9;
 
 procedure TUtama1.FormShow(Sender: TObject);
 begin
-  mm1.Items[1].Visible:= False;
-  mm1.Items[2].Visible:= False;
-  mm1.Items[3].Visible:= False;
+  mm1.Items[1].Visible:= True;
+  mm1.Items[2].Visible:= True;
+  mm1.Items[3].Visible:= True;
 end;
 
 procedure TUtama1.LOGIN1Click(Sender: TObject);
@@ -78,9 +81,9 @@ end;
 
 procedure TUtama1.LOGOUT1Click(Sender: TObject);
 begin
-mm1.Items[1].Visible:= False;
-mm1.Items[2].Visible:= False;
-mm1.Items[3].Visible:= False;
+mm1.Items[1].Visible:= false;
+mm1.Items[2].Visible:= false;
+mm1.Items[3].Visible:= false;
 end;
 
 procedure TUtama1.SATUAN1Click(Sender: TObject);
@@ -108,11 +111,20 @@ begin
 Pembelian9.Show;
 end;
 
-procedure TUtama1.FormCreate(Sender: TObject);
+
+procedure TUtama1.LAPORANPENJUALAN1Click(Sender: TObject);
 begin
-  LongDateFormat := 'mm/dd/yyyy';
-  edt_tanggal.Text := 'Hari ini ' + FormatDateTime('dddd, dd mmmm yyyy', Date);
+Lap_penjualan10.Show;
 end;
 
+procedure TUtama1.LAPORANSTOKBARANG1Click(Sender: TObject);
+begin
+Lap_stok_barang11.Show;
+end;
+
+procedure TUtama1.LAPORANBARANG1Click(Sender: TObject);
+begin
+Lap_barang12.Show;
+end;
 
 end.

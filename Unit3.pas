@@ -20,6 +20,7 @@ type
     edt2: TEdit;
     Label3: TLabel;
     btn5: TButton;
+    btn7: TButton;
     procedure btn1Click(Sender: TObject);
     procedure btn2Click(Sender: TObject);
     procedure btn3Click(Sender: TObject);
@@ -31,6 +32,7 @@ type
     procedure FormShow(Sender: TObject);
     procedure btn6Click(Sender: TObject);
     procedure btn4Click(Sender: TObject);
+    procedure btn7Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -197,6 +199,11 @@ btn5.Enabled:= True;
 btn2.Enabled:= False;
 btn3.Enabled:= False;
 
+end;
+
+procedure TKategori3.btn7Click(Sender: TObject);
+begin
+DataModule4.ReportKat.ShowReport();
 end;
 
 end.

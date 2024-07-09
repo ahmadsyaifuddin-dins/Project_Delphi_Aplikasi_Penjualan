@@ -12,7 +12,6 @@ object Utama1: TUtama1
   Font.Style = []
   Menu = mm1
   OldCreateOrder = False
-  OnCreate = FormCreate
   OnShow = FormShow
   PixelsPerInch = 96
   TextHeight = 13
@@ -4443,16 +4442,6 @@ object Utama1: TUtama1
     ShowHint = True
     Transparent = False
   end
-  object edt_tanggal: TEdit
-    Left = 592
-    Top = 0
-    Width = 161
-    Height = 21
-    ParentShowHint = False
-    ReadOnly = True
-    ShowHint = True
-    TabOrder = 0
-  end
   object mm1: TMainMenu
     object DD1: TMenuItem
       Caption = 'USER'
@@ -4499,12 +4488,15 @@ object Utama1: TUtama1
       Caption = 'LAPORAN'
       object LAPORANPENJUALAN1: TMenuItem
         Caption = 'LAPORAN PENJUALAN'
+        OnClick = LAPORANPENJUALAN1Click
       end
       object LAPORANSTOKBARANG1: TMenuItem
         Caption = 'LAPORAN STOK BARANG'
+        OnClick = LAPORANSTOKBARANG1Click
       end
       object LAPORANBARANG1: TMenuItem
         Caption = 'LAPORAN BARANG'
+        OnClick = LAPORANBARANG1Click
       end
     end
   end

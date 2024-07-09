@@ -7,12 +7,12 @@ object Login2: TLogin2
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
-  Font.Height = -11
+  Font.Height = -13
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
   PixelsPerInch = 96
-  TextHeight = 13
+  TextHeight = 16
   object Label1: TLabel
     Left = 144
     Top = 48
@@ -30,7 +30,7 @@ object Login2: TLogin2
     Left = 136
     Top = 80
     Width = 121
-    Height = 21
+    Height = 24
     TabOrder = 0
   end
   object btn1: TButton

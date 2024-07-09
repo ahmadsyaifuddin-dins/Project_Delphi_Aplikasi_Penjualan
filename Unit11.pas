@@ -1,13 +1,13 @@
-unit Unit10;
+unit Unit11;
 
 interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, ExtCtrls, QuickRpt;
+  Dialogs;
 
 type
-  TLap_penjualan10 = class(TForm)
+  TLap_stok_barang11 = class(TForm)
   private
     { Private declarations }
   public
@@ -15,12 +15,9 @@ type
   end;
 
 var
-  Lap_penjualan10: TLap_penjualan10;
+  Lap_stok_barang11: TLap_stok_barang11;
 
 implementation
-
-uses
-  Unit4;
 
 {$R *.dfm}
 

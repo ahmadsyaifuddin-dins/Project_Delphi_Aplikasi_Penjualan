@@ -21,9 +21,25 @@ type
     ds_penjualan: TDataSource;
     ds_pembelian: TDataSource;
     tbl_pembelian: TZQuery;
-    tbl1: TZQuery;
-    frxReport1: TfrxReport;
-    frxDBDataset1: TfrxDBDataset;
+    tbl_user: TZQuery;
+    ReportKat: TfrxReport;
+    dbKat: TfrxDBDataset;
+    ReportSat: TfrxReport;
+    dbSat: TfrxDBDataset;
+    dbSupp: TfrxDBDataset;
+    ReportSupp: TfrxReport;
+    dbKus: TfrxDBDataset;
+    ReportKus: TfrxReport;
+    dbJual: TfrxDBDataset;
+    ReportJual: TfrxReport;
+    dbBeli: TfrxDBDataset;
+    ReportBeli: TfrxReport;
+    dbUser: TfrxDBDataset;
+    ReportUser: TfrxReport;
+    tbl_barang: TZQuery;
+    ds_barang: TDataSource;
+    dbBarang: TfrxDBDataset;
+    ReportBarang: TfrxReport;
   private
     { Private declarations }
   public

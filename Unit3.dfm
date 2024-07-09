@@ -1,6 +1,6 @@
 object Kategori3: TKategori3
-  Left = 189
-  Top = 142
+  Left = 184
+  Top = 152
   Width = 642
   Height = 480
   Caption = 'KATEGORI'
@@ -9,8 +9,9 @@ object Kategori3: TKategori3
   Font.Color = clWindowText
   Font.Height = -13
   Font.Name = 'Tahoma'
-  Font.Style = [fsBold]
+  Font.Style = []
   OldCreateOrder = False
+  Scaled = False
   OnShow = FormShow
   PixelsPerInch = 96
   TextHeight = 16
@@ -43,7 +44,7 @@ object Kategori3: TKategori3
   object Label3: TLabel
     Left = 96
     Top = 336
-    Width = 103
+    Width = 94
     Height = 16
     Caption = 'MASUKAN NAME'
   end
@@ -92,7 +93,7 @@ object Kategori3: TKategori3
     TitleFont.Color = clWindowText
     TitleFont.Height = -13
     TitleFont.Name = 'Tahoma'
-    TitleFont.Style = [fsBold]
+    TitleFont.Style = []
     OnCellClick = dbgrd1CellClick
   end
   object btn4: TButton
@@ -129,5 +130,14 @@ object Kategori3: TKategori3
     Caption = 'SEARCH'
     TabOrder = 8
     OnClick = btn5Click
+  end
+  object btn7: TButton
+    Left = 488
+    Top = 200
+    Width = 75
+    Height = 25
+    Caption = 'Report'
+    TabOrder = 9
+    OnClick = btn7Click
   end
 end
