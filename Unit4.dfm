@@ -14,8 +14,8 @@ object DataModule4: TDataModule4
     User = 'root'
     Protocol = 'mysql'
     LibraryLocation = 
-      'D:\AHMAD SYAIFUDDIN\Visual 2 (Delphi 7)\Project_Delphi_Aplikasi_' +
-      'Penjualan\libmysql.dll'
+      'D:\AHMAD SYAIFUDDIN\HASIL KULIAH\Semester 4\Visual 2 (Delphi 7)\' +
+      'Project_Delphi_Aplikasi_Penjualan\libmysql.dll'
     Left = 16
     Top = 8
   end

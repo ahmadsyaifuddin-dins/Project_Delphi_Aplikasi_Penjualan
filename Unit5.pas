@@ -27,8 +27,8 @@ type
     procedure btn2Click(Sender: TObject);
     procedure btn3Click(Sender: TObject);
     procedure btn6Click(Sender: TObject);
-    procedure posisiawal;
     procedure bersih;
+    procedure posisiawal;
     procedure btn4Click(Sender: TObject);
     procedure btn5Click(Sender: TObject);
     procedure FormShow(Sender: TObject);
@@ -173,7 +173,8 @@ btn6.Enabled:= False;
 end;
 
 procedure TSatuan5.btn4Click(Sender: TObject);
-?edt1.Clear;
+begin
+edt1.clear;
 edt2.clear;
 btn1.Enabled:= True;
 btn5.Enabled:= True;
@@ -191,7 +192,43 @@ Open;
 end;
 end;
 
-.
+procedure TSatuan5.bersih;
+begin
+edt1.Clear;
+edt2.Clear;
+end;
+
+procedure TSatuan5.posisiawal;
+begin
+bersih;
+edt1.Enabled:= False;
+edt2.Enabled:= False;
+btn6.Enabled:= True;
+btn1.Enabled:= false;
+btn2.Enabled:= false;
+end;
+
+procedure TSatuan5.FormShow(Sender: TObject);
+begin
+posisiawal;
+end;
+
+procedure TSatuan5.edt3Change(Sender: TObject);
+begin
+with DataModule4.tbl_satuan do
+begin
+SQL.Clear;
+SQL.Add('select * from satuan where name like "%'+edt3.Text+'%"');
+Open;
+end;
+end;
+
+procedure TSatuan5.btn7Click(Sender: TObject);
+begin
+DataModule4.ReportSat.ShowReport();
+end;
+
+end.
 
 
 
