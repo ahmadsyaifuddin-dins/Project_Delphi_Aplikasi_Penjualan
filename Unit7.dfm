@@ -1,6 +1,6 @@
 object Kustomer7: TKustomer7
-  Left = 178
-  Top = 140
+  Left = 172
+  Top = 136
   Width = 857
   Height = 579
   Caption = 'KUSTOMER'
