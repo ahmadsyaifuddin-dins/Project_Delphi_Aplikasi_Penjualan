@@ -1,4 +1,0 @@
-Language Resources for FastReport 3
-Language: Slovak
-Translator: Ing. Viktor Halász  (Viktor Halász)
-E-mail: halasz.viktor@stonline.sk
